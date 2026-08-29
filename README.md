@@ -4,9 +4,19 @@ Statična Next.js stran z Decap CMS urejevalnikom, i18n (SL/EN, lokalizirani men
 in content modelom, pripravljenim za enostavno dodajanje člankov, izdelkov in
 testimonialov brez razvojnega posega.
 
-Trenutno vsebuje: Origin story (SL+EN) in About (skupna vsebina). Vodnik, Blog,
-Trgovina in Programi so pripravljeni v content modelu in CMS konfiguraciji, a še
-brez migrirane vsebine — glej `dream-explorer-nacrt-prenove.md` za popoln popis.
+**Stanje: vse dogovorjene strani obstajajo in so poseljene s pravo, migrirano vsebino
+iz WXR izvoza** (preverjeno: `npm run build` uspešno generira vseh 83 strani).
+
+| Stran | SL | EN | Vsebina |
+|---|---|---|---|
+| Domov | `/sl` | `/en` | Origin story (osnutek, za revizijo) |
+| O meni | `/sl/about` | `/en/about` | Prava vsebina iz "O meni" (skupna) |
+| Vodnik | `/sl/vodnik` + 42 podstrani | — | Migrirano iz WXR |
+| Blog | `/sl/blog` + 18 objav | `/en/blog` + 4 objave | Migrirano iz WXR |
+| Trgovina | `/sl/trgovina` | `/en/shop` | Prazno — čaka payment linke |
+| Programi | `/sl/programi` | — | "Kmalu" + 17 testimonialov |
+| Kontakt | `/sl/kontakt` | `/en/contact` | Segmentiran obrazec (trenutno `mailto:`) |
+| CMS | `/admin` | | Decap CMS, vse collections |
 
 ## 1. Lokalni zagon (preverjanje, da vse deluje)
 
@@ -64,12 +74,11 @@ Obišči `https://tvoja-domena.com/admin` → "Login with GitHub" → potrdiš d
 znajdeš se v urejevalniku z vsemi collections (Origin Story, About, Vodnik, Blog,
 Trgovina, Testimonials).
 
-## Kaj (še) manjka za popolno migracijo
+## Kaj (še) manjka
 
-Glej razdelek 11 v `dream-explorer-nacrt-prenove.md`:
-- Migracija Vodnika (44 strani) in izbranih Blog objav iz WXR izvoza v `content/guide` in `content/post`
-- Dejanska About vsebina (trenutno osnutek/placeholder)
-- Trgovina — dodajanje knjig/e-knjig/tinktur v `content/products`, ko so payment linki pripravljeni
-- Testimonials — prenos 17 obstoječih iz WXR izvoza v `content/testimonials`
-- Prave Facebook/YouTube povezave v `components/Footer.tsx` (trenutno placeholder URL-ji)
-- Strani Vodnik/Blog/Trgovina/Programi/Kontakt (trenutno samo Home in About obstajata kot dejanske route-e)
+- **Kontaktni obrazec** trenutno odpre `mailto:` — zamenjaj z Formspree/podobnim, ko boš to želel avtomatizirati, in poveži z Mailchimp listo.
+- **Trgovina** — dodaj vsebino v `content/products` (knjige/e-knjige/tinkture), ko so payment linki pripravljeni.
+- **Facebook/YouTube povezave** v `components/Footer.tsx` — trenutno placeholder URL-ji, zamenjaj s pravimi.
+- **Origin story in About besedilo** — oboje je osnutek/prepis, prosim preveri ton in dejstva pred objavo.
+- **Legal strani** (Politika zasebnosti, Pogoji, Piškotki) — še niso migrirane kot route, obstajajo v WXR izvozu (glej `dream-explorer-nacrt-prenove.md`, razdelek 8) za posodobitev in vključitev.
+- **Affiliate izdelki** — arhitektura pripravljena (`product_type: affiliate` v CMS), vsebina se doda, ko preveriš stare Amazon linke.

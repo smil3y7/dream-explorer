@@ -47,3 +47,77 @@ export function getDictionary(lang: Lang) {
   const raw = fs.readFileSync(filePath, "utf-8");
   return JSON.parse(raw);
 }
+
+// ---------- Vodnik / Guide ----------
+
+export type GuideCategory = "zakaj" | "kako" | "tehnike" | "pripomocki" | "navdih";
+
+export const GUIDE_CATEGORY_ORDER: { key: GuideCategory; labelSl: string }[] = [
+  { key: "zakaj", labelSl: "Zakaj" },
+  { key: "kako", labelSl: "Kako" },
+  { key: "tehnike", labelSl: "Tehnike" },
+  { key: "pripomocki", labelSl: "Pripomočki" },
+  { key: "navdih", labelSl: "Navdih" },
+];
+
+function readMarkdownDir(dir: string) {
+  const full = path.join(CONTENT_DIR, dir);
+  if (!fs.existsSync(full)) return [];
+  return fs
+    .readdirSync(full)
+    .filter((f) => f.endsWith(".md"))
+    .map((filename) => {
+      const raw = fs.readFileSync(path.join(full, filename), "utf-8");
+      const { data, content } = matter(raw);
+      // gray-matter samodejno pretvori YAML datume v JS Date objekte —
+      // za prikaz jih normaliziramo nazaj v niz (YYYY-MM-DD).
+      if (data.date instanceof Date) {
+        data.date = data.date.toISOString().slice(0, 10);
+      }
+      const slug = filename.replace(/\.md$/, "");
+      return { slug, frontmatter: data, content };
+    });
+}
+
+export function getGuidePages(lang: Lang) {
+  return readMarkdownDir("guide").filter((p) => p.frontmatter.lang === lang);
+}
+
+export async function getGuidePage(lang: Lang, slug: string) {
+  const all = readMarkdownDir("guide");
+  const match = all.find((p) => p.slug === slug && p.frontmatter.lang === lang);
+  if (!match) return null;
+  const html = await mdToHtml(match.content);
+  return { frontmatter: match.frontmatter, html };
+}
+
+// ---------- Blog ----------
+
+export function getPosts(lang: Lang) {
+  return readMarkdownDir("post")
+    .filter((p) => p.frontmatter.lang === lang)
+    .sort((a, b) => (a.frontmatter.date < b.frontmatter.date ? 1 : -1));
+}
+
+export async function getPost(lang: Lang, slug: string) {
+  const all = readMarkdownDir("post");
+  const match = all.find((p) => p.slug === slug && p.frontmatter.lang === lang);
+  if (!match) return null;
+  const html = await mdToHtml(match.content);
+  return { frontmatter: match.frontmatter, html };
+}
+
+// ---------- Trgovina / Shop ----------
+
+export function getProducts(lang: Lang) {
+  return readMarkdownDir("products").filter((p) =>
+    (p.frontmatter.languages || []).includes(lang)
+  );
+}
+
+// ---------- Testimonials ----------
+
+export function getTestimonials(program?: string) {
+  const all = readMarkdownDir("testimonials");
+  return program ? all.filter((t) => t.frontmatter.program === program) : all;
+}
