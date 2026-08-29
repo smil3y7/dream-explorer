@@ -3,7 +3,7 @@ backend:
   repo: smil3y7/dream-explorer   
   branch: main
   base_url: https://dream-explorer-xi.vercel.app/        
-  auth_endpoint: api/auth
+  auth_endpoint: /api/auth
 
 media_folder: "public/uploads"
 public_folder: "/uploads"
