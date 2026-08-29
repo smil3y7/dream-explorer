@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: smil3y7/dream-explorer   # TODO: popravi na dejansko ime repozitorija
+  repo: smil3y7/dream-explorer   
   branch: main
-  base_url: https://dream-explorer-xi.vercel.app/               # TODO: popravi na dejansko domeno
+  base_url: https://dream-explorer-xi.vercel.app/        
   auth_endpoint: api/auth
 
 media_folder: "public/uploads"
