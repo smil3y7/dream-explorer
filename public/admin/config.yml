@@ -1,0 +1,144 @@
+backend:
+  name: github
+  repo: TVOJE-UPORABNISKO-IME/dream-explorer-site   # TODO: popravi na dejansko ime repozitorija
+  branch: main
+  base_url: https://TVOJA-DOMENA.com                # TODO: popravi na dejansko domeno
+  auth_endpoint: api/auth
+
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+collections:
+  # --- Origin story: eno za vsak jezik (files collection, ne folder) ---
+  - name: "origin"
+    label: "Origin Story"
+    files:
+      - file: "content/origin/sl.md"
+        label: "Origin Story (SL)"
+        name: "origin_sl"
+        fields:
+          - { label: "Naslov (interni)", name: "title", widget: "string" }
+          - { label: "Eyebrow", name: "hero_eyebrow", widget: "string" }
+          - { label: "Naslov (hero)", name: "hero_headline", widget: "string" }
+          - { label: "Podnaslov", name: "hero_sub", widget: "text" }
+          - { label: "CTA napis", name: "cta_label", widget: "string" }
+          - { label: "CTA povezava", name: "cta_href", widget: "string" }
+          - { label: "Vsebina", name: "body", widget: "markdown" }
+      - file: "content/origin/en.md"
+        label: "Origin Story (EN)"
+        name: "origin_en"
+        fields:
+          - { label: "Title (internal)", name: "title", widget: "string" }
+          - { label: "Eyebrow", name: "hero_eyebrow", widget: "string" }
+          - { label: "Headline", name: "hero_headline", widget: "string" }
+          - { label: "Subheadline", name: "hero_sub", widget: "text" }
+          - { label: "CTA label", name: "cta_label", widget: "string" }
+          - { label: "CTA link", name: "cta_href", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+  # --- About: ena skupna datoteka za oba jezika ---
+  - name: "about"
+    label: "About / O meni"
+    files:
+      - file: "content/pages/about.md"
+        label: "About (skupno SL+EN)"
+        name: "about"
+        fields:
+          - { label: "Naslov", name: "title", widget: "string" }
+          - { label: "Vsebina", name: "body", widget: "markdown" }
+
+  # --- Vodnik / Guide: evergreen referenčna vsebina, po jeziku in kategoriji ---
+  - name: "guide"
+    label: "Vodnik (Guide)"
+    folder: "content/guide"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Naslov", name: "title", widget: "string" }
+      - label: "Jezik"
+        name: "lang"
+        widget: "select"
+        options: ["sl", "en"]
+      - label: "Kategorija"
+        name: "category"
+        widget: "select"
+        options: ["zakaj", "kako", "tehnike", "pripomocki", "navdih"]
+      - { label: "Vsebina", name: "body", widget: "markdown" }
+      - label: "Sorodne objave"
+        name: "related"
+        widget: "list"
+        required: false
+
+  # --- Blog: kronološke objave, po jeziku ---
+  - name: "post"
+    label: "Blog"
+    folder: "content/post"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Naslov", name: "title", widget: "string" }
+      - label: "Jezik"
+        name: "lang"
+        widget: "select"
+        options: ["sl", "en"]
+      - { label: "Datum", name: "date", widget: "datetime" }
+      - { label: "Vsebina", name: "body", widget: "markdown" }
+      - label: "Sorodne strani v Vodniku"
+        name: "related"
+        widget: "list"
+        required: false
+
+  # --- Trgovina: knjige, e-knjige, tinkture + pripravljeno mesto za affiliate ---
+  - name: "product"
+    label: "Trgovina"
+    folder: "content/products"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Ime izdelka", name: "name", widget: "string" }
+      - label: "Tip"
+        name: "product_type"
+        widget: "select"
+        options: ["own", "affiliate"]
+        default: "own"
+      - label: "Kategorija"
+        name: "category"
+        widget: "select"
+        options: ["knjiga", "e-knjiga", "tinktura", "affiliate"]
+      - { label: "Cena", name: "price", widget: "string", required: false }
+      - label: "Jeziki"
+        name: "languages"
+        widget: "select"
+        multiple: true
+        options: ["sl", "en"]
+      - label: "Dostava"
+        name: "shipping"
+        widget: "select"
+        options: ["domestic", "none", "digital"]
+      - label: "Trg"
+        name: "market"
+        widget: "select"
+        multiple: true
+        options: ["sl", "en"]
+      - label: "Povezava do plačila"
+        name: "payment_link"
+        widget: "string"
+        required: false
+        hint: "Stripe/PayPal payment link, ali Gumroad/Payhip URL za e-knjige."
+      - { label: "Opis", name: "body", widget: "markdown", required: false }
+
+  # --- Testimonials: realni odzivi udeležencev programov ---
+  - name: "testimonial"
+    label: "Testimonials"
+    folder: "content/testimonials"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Ime", name: "name", widget: "string" }
+      - label: "Program"
+        name: "program"
+        widget: "select"
+        options: ["Inkubator sanj"]
+        hint: "Dodaj novo možnost, ko zaženeš nov program."
+      - { label: "Datum", name: "date", widget: "date", required: false }
+      - { label: "Citat", name: "quote", widget: "text" }

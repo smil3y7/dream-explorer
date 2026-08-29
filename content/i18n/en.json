@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "guide": "Guide",
+    "blog": "Blog",
+    "programs": "Programs",
+    "shop": "Shop",
+    "contact": "Contact"
+  },
+  "cta": {
+    "enterSentria": "Explore Sentria",
+    "readMore": "Read more",
+    "comingSoon": "Coming soon",
+    "writeForInfo": "Get in touch"
+  },
+  "footer": {
+    "followFacebook": "Follow on Facebook",
+    "followYoutube": "Follow on YouTube",
+    "rights": "All rights reserved."
+  }
+}

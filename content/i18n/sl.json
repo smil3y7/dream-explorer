@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Domov",
+    "about": "O meni",
+    "guide": "Vodnik",
+    "blog": "Blog",
+    "programs": "Programi",
+    "shop": "Trgovina",
+    "contact": "Kontakt"
+  },
+  "cta": {
+    "enterSentria": "Raziskuj Sentrio",
+    "readMore": "Preberi več",
+    "comingSoon": "Kmalu",
+    "writeForInfo": "Piši za info"
+  },
+  "footer": {
+    "followFacebook": "Sledi na Facebooku",
+    "followYoutube": "Sledi na YouTubu",
+    "rights": "Vse pravice pridržane."
+  }
+}

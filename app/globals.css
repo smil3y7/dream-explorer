@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+body {
+  background-color: #0E1526;
+  color: #EDEAE2;
+}
+
+:focus-visible {
+  outline: 2px solid #C9A876;
+  outline-offset: 3px;
+}
+
+/* Signature thread element */
+.thread-path {
+  stroke-dasharray: 4 6;
+  stroke-linecap: round;
+}
