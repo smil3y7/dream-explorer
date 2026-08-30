@@ -2,6 +2,7 @@
 title: "WBTB - Metoda prekinjenega spanja"
 lang: sl
 category: tehnike
+order: 17
 source_slug: wbtb
 ---
 

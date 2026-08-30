@@ -2,6 +2,7 @@
 title: "Spominjanje sanj"
 lang: sl
 category: kako
+order: 12
 source_slug: spominjanje
 ---
 

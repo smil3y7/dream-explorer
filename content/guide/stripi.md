@@ -2,6 +2,7 @@
 title: "Stripi"
 lang: sl
 category: zakaj
+order: 4
 source_slug: stripi
 ---
 

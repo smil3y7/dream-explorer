@@ -2,6 +2,7 @@
 title: "Kako začeti?"
 lang: sl
 category: kako
+order: 8
 source_slug: kako
 ---
 

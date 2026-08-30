@@ -2,6 +2,7 @@
 title: "Johimbin"
 lang: sl
 category: pripomocki
+order: 34
 source_slug: johimbin
 ---
 

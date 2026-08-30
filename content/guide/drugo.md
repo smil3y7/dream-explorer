@@ -2,6 +2,7 @@
 title: "Drugo"
 lang: sl
 category: zakaj
+order: 7
 source_slug: drugo
 ---
 

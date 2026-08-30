@@ -2,6 +2,7 @@
 title: "Terapevtske in zdravilne sanje"
 lang: sl
 category: zakaj
+order: 5
 source_slug: zdravilne-sanje
 ---
 

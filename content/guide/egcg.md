@@ -2,6 +2,7 @@
 title: "EGCG"
 lang: sl
 category: pripomocki
+order: 37
 source_slug: egcg
 ---
 

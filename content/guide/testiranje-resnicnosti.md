@@ -2,6 +2,7 @@
 title: "Testiranje resničnosti"
 lang: sl
 category: kako
+order: 14
 source_slug: testiranje-resnicnosti
 ---
 

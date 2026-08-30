@@ -2,6 +2,7 @@
 title: "Izrazi in okrajšave"
 lang: sl
 category: kako
+order: 10
 source_slug: terminologija
 ---
 

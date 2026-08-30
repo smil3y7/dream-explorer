@@ -2,6 +2,7 @@
 title: "Predpostavke in dogovori"
 lang: sl
 category: kako
+order: 9
 source_slug: dogovori
 ---
 

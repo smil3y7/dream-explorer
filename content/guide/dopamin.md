@@ -2,6 +2,7 @@
 title: "Dopamin"
 lang: sl
 category: pripomocki
+order: 26
 source_slug: dopamin
 ---
 

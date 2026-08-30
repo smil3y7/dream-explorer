@@ -2,6 +2,7 @@
 title: "Nikotin"
 lang: sl
 category: pripomocki
+order: 31
 source_slug: nikotin
 ---
 

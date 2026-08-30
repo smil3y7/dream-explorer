@@ -2,6 +2,7 @@
 title: "5-HTP"
 lang: sl
 category: pripomocki
+order: 35
 source_slug: 5-htp
 ---
 

@@ -2,6 +2,7 @@
 title: "MILD - Krepitev asociativnega spomina"
 lang: sl
 category: tehnike
+order: 21
 source_slug: mild-vaja
 ---
 

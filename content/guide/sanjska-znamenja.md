@@ -2,6 +2,7 @@
 title: "Sanjska znamenja"
 lang: sl
 category: kako
+order: 15
 source_slug: sanjska-znamenja
 ---
 

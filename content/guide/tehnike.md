@@ -2,6 +2,7 @@
 title: "Tehnike za doseganje lucidnosti"
 lang: sl
 category: tehnike
+order: 16
 source_slug: tehnike
 ---
 

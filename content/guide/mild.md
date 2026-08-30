@@ -2,6 +2,7 @@
 title: "MILD - Asociativno spodbujene zavestne sanje"
 lang: sl
 category: tehnike
+order: 20
 source_slug: mild
 ---
 

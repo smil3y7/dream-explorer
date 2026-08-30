@@ -2,6 +2,7 @@
 title: "Galantamin"
 lang: sl
 category: pripomocki
+order: 29
 source_slug: galantamin
 ---
 

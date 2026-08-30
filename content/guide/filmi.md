@@ -2,6 +2,7 @@
 title: "Filmi"
 lang: sl
 category: zakaj
+order: 3
 source_slug: filmi
 ---
 

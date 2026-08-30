@@ -80,7 +80,9 @@ function readMarkdownDir(dir: string) {
 }
 
 export function getGuidePages(lang: Lang) {
-  return readMarkdownDir("guide").filter((p) => p.frontmatter.lang === lang);
+  return readMarkdownDir("guide")
+    .filter((p) => p.frontmatter.lang === lang)
+    .sort((a, b) => (a.frontmatter.order ?? 0) - (b.frontmatter.order ?? 0));
 }
 
 export async function getGuidePage(lang: Lang, slug: string) {

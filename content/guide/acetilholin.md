@@ -2,6 +2,7 @@
 title: "Acetilholin"
 lang: sl
 category: pripomocki
+order: 27
 source_slug: acetilholin
 ---
 

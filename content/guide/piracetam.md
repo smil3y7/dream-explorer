@@ -2,6 +2,7 @@
 title: "Piracetam"
 lang: sl
 category: pripomocki
+order: 32
 source_slug: piracetam
 ---
 

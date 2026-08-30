@@ -2,6 +2,7 @@
 title: "WILD - Neposreden prehod iz budnosti v sanje"
 lang: sl
 category: tehnike
+order: 18
 source_slug: wild
 ---
 

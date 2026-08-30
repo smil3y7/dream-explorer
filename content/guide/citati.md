@@ -2,6 +2,7 @@
 title: "Navdih in citati"
 lang: sl
 category: navdih
+order: 0
 source_slug: citati-zbirka
 ---
 

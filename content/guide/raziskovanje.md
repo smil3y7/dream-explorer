@@ -2,6 +2,7 @@
 title: "Raziskovanje in doživljanje"
 lang: sl
 category: zakaj
+order: 6
 source_slug: raziskovanje
 ---
 

@@ -2,6 +2,7 @@
 title: "Serotonin"
 lang: sl
 category: pripomocki
+order: 25
 source_slug: serotonin
 ---
 

@@ -2,6 +2,7 @@
 title: "Nymphaea caerulea"
 lang: sl
 category: pripomocki
+order: 41
 source_slug: nymphaea-caerulea
 ---
 

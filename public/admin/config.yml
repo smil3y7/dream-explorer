@@ -1,9 +1,9 @@
 backend:
   name: github
-  repo: smil3y7/dream-explorer
+  repo: TVOJE-UPORABNISKO-IME/dream-explorer-site   # TODO: popravi na dejansko ime repozitorija
   branch: main
-  base_url: https://dream-explorer-xi.vercel.app
-  auth_endpoint: /api/auth
+  base_url: https://TVOJA-DOMENA.com                # TODO: popravi na dejansko domeno
+  auth_endpoint: api/auth
 
 media_folder: "public/uploads"
 public_folder: "/uploads"
@@ -63,11 +63,17 @@ collections:
         name: "category"
         widget: "select"
         options: ["zakaj", "kako", "tehnike", "pripomocki", "navdih"]
+      - label: "Vrstni red znotraj kategorije"
+        name: "order"
+        widget: "number"
+        hint: "Nižje število = prikaže se prej. Nove strani dodaj z visokim številom (npr. 100), da pristanejo na koncu."
+        default: 100
       - { label: "Vsebina", name: "body", widget: "markdown" }
       - label: "Sorodne objave"
         name: "related"
         widget: "list"
         required: false
+      - { label: "Izvirni slug (WP)", name: "source_slug", widget: "hidden", required: false }
 
   # --- Blog: kronološke objave, po jeziku ---
   - name: "post"
@@ -87,6 +93,7 @@ collections:
         name: "related"
         widget: "list"
         required: false
+      - { label: "Izvirni slug (WP)", name: "source_slug", widget: "hidden", required: false }
 
   # --- Trgovina: knjige, e-knjige, tinkture + pripravljeno mesto za affiliate ---
   - name: "product"

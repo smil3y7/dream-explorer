@@ -2,6 +2,7 @@
 title: "L-teanin"
 lang: sl
 category: pripomocki
+order: 38
 source_slug: l-teanin
 ---
 

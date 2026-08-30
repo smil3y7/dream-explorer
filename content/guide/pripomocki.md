@@ -2,6 +2,7 @@
 title: "Pripomočki za doseganje lucidnosti"
 lang: sl
 category: pripomocki
+order: 23
 source_slug: pripomocki
 ---
 

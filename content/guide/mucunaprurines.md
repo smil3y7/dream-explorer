@@ -2,6 +2,7 @@
 title: "Mucuna Prurines"
 lang: sl
 category: pripomocki
+order: 33
 source_slug: mucunaprurines
 ---
 

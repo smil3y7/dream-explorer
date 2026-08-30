@@ -2,6 +2,7 @@
 title: "Knjige"
 lang: sl
 category: zakaj
+order: 2
 source_slug: knjige
 ---
 

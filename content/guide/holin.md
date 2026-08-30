@@ -2,6 +2,7 @@
 title: "Holin"
 lang: sl
 category: pripomocki
+order: 30
 source_slug: holin
 ---
 

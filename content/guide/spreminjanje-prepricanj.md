@@ -2,6 +2,7 @@
 title: "Spreminjanje prepričanj"
 lang: sl
 category: kako
+order: 11
 source_slug: spreminjanje-prepricanj
 ---
 
