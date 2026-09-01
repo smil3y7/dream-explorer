@@ -27,4 +27,4 @@ Po enakem postopku lahko telo privadimo na zbujanje ob kateri koli uri.
 
 Za krepitev spomina potrebujemo le motivacijo in nekaj vaje.
 
-Ko se zbudimo, obležimo čim bolj pri miru in z zaprtimi očmi ter najprej pomislimo na to, kaj smo sanjali. Vsebino poskušajmo čim bolj podrobno obnoviti, poskušamo se spomniti čim več detajlov. Pri tem si lahko pomagamo z izhodišči, kot so “Bil sem v/na...”, “Srečal sem...”, “Pogovarjal sem se z...” in podobno. In že smo pri naslednjem koraku - [zapisovanju sanj](http://dream-explorer.com/sanjanje/kako/zapisovanje/).
+Ko se zbudimo, obležimo čim bolj pri miru in z zaprtimi očmi ter najprej pomislimo na to, kaj smo sanjali. Vsebino poskušajmo čim bolj podrobno obnoviti, poskušamo se spomniti čim več detajlov. Pri tem si lahko pomagamo z izhodišči, kot so “Bil sem v/na...”, “Srečal sem...”, “Pogovarjal sem se z...” in podobno. In že smo pri naslednjem koraku - [zapisovanju sanj](/sl/vodnik/zapisovanje).

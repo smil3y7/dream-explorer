@@ -6,7 +6,7 @@ order: 41
 source_slug: nymphaea-caerulea
 ---
 
-![Nymphaea caerulea flower](http://dream-explorer.com/sanjanje/wp-content/uploads/2011/08/Nymphaea_caerulea_flower.jpg)**Nymphaea caerulea**, poznana tudi kot “sveta modra lilija” ali “modri lotus”, izvira iz porečja Nila in drugih predelov vzhodne Afrike, od koder so jo že v starih časih ponesli tudi na druge konce sveta. Ima koničaste, 10 do 15 cm velike cvetove in pretežno okrogle, plavajoče liste z gladkimi robovi in s premerom od 25 do 40 cm. V Starem Egiptu in egipčanski mitologiji je veljala za sveto rastlino, saj je simbolizirala vzhod in zahod sonca, hkrati pa je predstavljala tudi simbol egipčanskega božanstva Nefertem. V Aziji in Afriki zaradi sposobnosti preživetja v dolgih sušnih obdobjih velja kot simbol nesmrtnosti, na Kitajskem in v Indiji pa predstavlja verski simbol in simbol ženske lepote.
+![Nymphaea caerulea flower](/uploads/nymphaea-caerulea/Nymphaea_caerulea_flower.jpg)**Nymphaea caerulea**, poznana tudi kot “sveta modra lilija” ali “modri lotus”, izvira iz porečja Nila in drugih predelov vzhodne Afrike, od koder so jo že v starih časih ponesli tudi na druge konce sveta. Ima koničaste, 10 do 15 cm velike cvetove in pretežno okrogle, plavajoče liste z gladkimi robovi in s premerom od 25 do 40 cm. V Starem Egiptu in egipčanski mitologiji je veljala za sveto rastlino, saj je simbolizirala vzhod in zahod sonca, hkrati pa je predstavljala tudi simbol egipčanskega božanstva Nefertem. V Aziji in Afriki zaradi sposobnosti preživetja v dolgih sušnih obdobjih velja kot simbol nesmrtnosti, na Kitajskem in v Indiji pa predstavlja verski simbol in simbol ženske lepote.
 
 Učinki in uporaba
 

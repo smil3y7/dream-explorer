@@ -5,7 +5,7 @@ date: 2016-07-21
 source_slug: iskanje-luminisence
 ---
 
-V sanjanju lahko izvajamo neverjetne in fantastične manevre – lahko komuniciramo s pokojnimi, [poiščemo svojega vodnika](http://dream-explorer.com/sanjanje/lucidni-cilji-v-praksi-iskanje-vodnika/), potujemo v druge svetove, se učimo in [mnogo več](http://dream-explorer.com/sanjanje/lucidni-cilji/). Sanjanje pa nam omogoča tudi čisto praktične manevre, kot je na primer **iskanje luminisence**.
+V sanjanju lahko izvajamo neverjetne in fantastične manevre – lahko komuniciramo s pokojnimi, [poiščemo svojega vodnika](/sl/blog/2016-05-18-lucidni-cilji-v-praksi-iskanje-vodnika), potujemo v druge svetove, se učimo in [mnogo več](/sl/blog/2016-04-23-lucidni-cilji). Sanjanje pa nam omogoča tudi čisto praktične manevre, kot je na primer **iskanje luminisence**.
 
 Preden bom z vami delil svojo izkušnjo, naj poskusim na kratko opisati, kaj to sploh je.
 
@@ -13,7 +13,7 @@ V psihologiji je opredeljeno stanje, ki se imenuje disociacija oziroma razdelite
 
 Čeprav je strokovno proučevanje disociacije relativno novo in sega v konec 18. stoletja, pa je po drugi strani to stanje poznano že tisočletja. Šamani namreč verjamejo, da je izvor vsake (bodisi psihične ali fizične) bolezni neposredno povezan z “izgubo duše”. Vsak travmatičen dogodek (psihično ali fizično nasilje, naravne katastrofe, nesreče, zlorabe, smrt ljubljene osebe in podobno) sproži zaščitni mehanizem naše psihe, ki povzroči, da takrat del naše duše zapusti fizično telo in nas tako obvaruje pred doživetjem polnega spektra občutkov travmatične izkušnje. Delec duše (ta sicer predstavlja naše bistvo, življenjsko silo, energijo) “pobegne” iz telesa in odpotuje v tako imenovani nižji svet, kjer ostane.
 
-[![Universal Soul Retrieval](http://dream-explorer.com/sanjanje/wp-content/uploads/universal-soul-retrieval-300x259.jpg)](http://www.lovehealforgive.com/usr/universal-soul-retrieval)
+[![Universal Soul Retrieval](/uploads/2016-07-21-iskanje-luminisence/universal-soul-retrieval-300x259.jpg)](http://www.lovehealforgive.com/usr/universal-soul-retrieval)
 
 Šamani ljudem pomagajo tako, da izvedejo postopek, ki se imenuje “povratek duše” (ang. “*Soul Retrieval*”) – v spremenjenem stanju zavesti odpotujejo v nižji svet in poiščejo izgubljeno energijo osebe ter jo privedejo nazaj. Podajo tudi navodila, ki jih mora posameznik upoštevati, če želi, da se povrnjena energija “usidra” nazaj v njegovo telo oziroma zavest. Izkušnja povratka duše je običajno travmatična, saj nosi s seboj spomin na dogodek, ki je povzročil odcepitev.
 

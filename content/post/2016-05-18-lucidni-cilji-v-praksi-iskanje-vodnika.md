@@ -5,7 +5,7 @@ date: 2016-05-18
 source_slug: lucidni-cilji-v-praksi-iskanje-vodnika
 ---
 
-V [prejšnjem prispevku](http://dream-explorer.com/sanjanje/lucidni-cilji/) sem na kratko opisal, kaj so lucidni cilji in zakaj se sanjalske aktivnosti splača načrtovati v naprej, tokrat pa se bom posvetil konkretnemu primeru – cilju, ki sem ga pred leti izvedel v okviru projekta na forumu [Lucidne sanje](http://www.lucidnesanje.com/forum/index.php). Za nalogo smo si zastavili iskanje vodnika.
+V [prejšnjem prispevku](/sl/blog/2016-04-23-lucidni-cilji) sem na kratko opisal, kaj so lucidni cilji in zakaj se sanjalske aktivnosti splača načrtovati v naprej, tokrat pa se bom posvetil konkretnemu primeru – cilju, ki sem ga pred leti izvedel v okviru projekta na forumu [Lucidne sanje](http://www.lucidnesanje.com/forum/index.php). Za nalogo smo si zastavili iskanje vodnika.
 
 Sanje se začnejo povsem “normalno”...
 
@@ -15,7 +15,7 @@ Sanje se začnejo povsem “normalno”...
 >
 > Hodim naokrog in srečam nekaj ljudi. Sprašujem jih, če je kdo od njih slučajno moj vodnik. Vsi me začudeno gledajo, odkimavajo. Nasproti mi pride blondinka v rdeči obleki. Tudi njo vprašam, če je moja vodnica, ona prikima. Predstavi se mi, zaklepetava se. Med pogovorom me prešine, da bi jo bilo pametno vprašati, kako se napiše njeno ime. Smeji se mi, a mi ne da konkretnega odgovora; vmes celo podvomim, da ji je res tako ime. Med pogovorom večkrat preštejem prste, preverjam stvarnost. Občutek imam, da ji gre to na živce. Pojasnim ji, da je to edini način, da “ostanem noter”.
 >
-> ![Woman in red dress](http://dream-explorer.com/sanjanje/wp-content/uploads/woman_in_red_dress-300x234.jpg)
+> ![Woman in red dress](/uploads/2016-05-18-lucidni-cilji-v-praksi-iskanje-vodnika/woman_in_red_dress-300x234.jpg)
 >
 > L. me odpelje v nekakšno delavnico. V prostor priletim (ali bolje rečeno – priskačem kot odbijajoča se žoga) skozi okno. V delavnici vidim belega pitbull-a in še nekaj črnega, podobnega psu. V trenutku, ko se dotaknem tal, me eden od psov napade. Odbijem napad in pogledam, kje je zverina pristala, ta se med tem spremeni v človeka. L. naju seznani, predstavi mi ga kot M., nato pa pristopi do njega in mu reče, da me je pripeljala k njemu v uk. Pripomni še, da je z menoj treba delati “v rokavicah”, ker sem še na stopnji amebe. Možakar kmalu za tem odide iz delavnice. L. gre za njim, nekaj se pogovarjata.
 >

@@ -10,4 +10,4 @@ source_slug: egcg
 
 Vpliv na sanje
 
-Deluje kot [COMT](http://www.ffa.uni-lj.si/o-fakulteti/laboratorij-za-molekularno-diagnostiko-kkb/seznam-laboratorijskih-preiskav-in-storitev/comt-1947-ga.html) inhibitor – substanca, ki služi za razgradnjo [dopamina](http://dream-explorer.com/sanjanje/nevrotransmitorji/dopamin/) in [norepinefrina](http://dream-explorer.com/sanjanje/nevrotransmitorji/norepinefrin/), zaradi česar pospešuje njuno proizvodnjo.
+Deluje kot [COMT](http://www.ffa.uni-lj.si/o-fakulteti/laboratorij-za-molekularno-diagnostiko-kkb/seznam-laboratorijskih-preiskav-in-storitev/comt-1947-ga.html) inhibitor – substanca, ki služi za razgradnjo [dopamina](/sl/vodnik/dopamin) in [norepinefrina](/sl/vodnik/norepinefrin), zaradi česar pospešuje njuno proizvodnjo.

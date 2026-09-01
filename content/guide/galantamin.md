@@ -6,7 +6,7 @@ order: 29
 source_slug: galantamin
 ---
 
-**Galantamin** je AChE inhibitor – služi za razgradnjo [acetilholina](http://dream-explorer.com/sanjanje/nevrotransmitorji/acetilholin/) v možganih, zaradi česar se le-ta tvori v povečanih količinah. Najbolj učinkovit je po 4-5 urah spanca in omogoča direkten prehod iz budnega stanja v sanje z neprekinjenim zavedanjem. Maksimalen učinek doseže 60 minut po zaužitju in se iz telesa v celoti izloči po 48 urah.
+**Galantamin** je AChE inhibitor – služi za razgradnjo [acetilholina](/sl/vodnik/acetilholin) v možganih, zaradi česar se le-ta tvori v povečanih količinah. Najbolj učinkovit je po 4-5 urah spanca in omogoča direkten prehod iz budnega stanja v sanje z neprekinjenim zavedanjem. Maksimalen učinek doseže 60 minut po zaužitju in se iz telesa v celoti izloči po 48 urah.
 
 Stranski učinki
 

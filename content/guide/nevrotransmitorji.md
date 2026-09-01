@@ -10,7 +10,7 @@ source_slug: nevrotransmitorji
 
 Štirje ključni nevrotransmitorji, ki vplivajo na spanje in sanjanje, so:
 
-* [norepinefrin](http://dream-explorer.com/sanjanje/nevrotransmitorji/norepinefrin/),
-* [acetilholin](http://dream-explorer.com/sanjanje/nevrotransmitorji/acetilholin/),
-* [dopamin](http://dream-explorer.com/sanjanje/nevrotransmitorji/dopamin/) in
-* [serotonin](http://dream-explorer.com/sanjanje/nevrotransmitorji/serotonin/).
+* [norepinefrin](/sl/vodnik/norepinefrin),
+* [acetilholin](/sl/vodnik/acetilholin),
+* [dopamin](/sl/vodnik/dopamin) in
+* [serotonin](/sl/vodnik/serotonin).

@@ -6,7 +6,7 @@ order: 32
 source_slug: piracetam
 ---
 
-**Piracetam** spada med nootropike, ki imajo pozitiven učinek na možgane ter sposobnost razmišljanja in pomnjenja. Uporablja se za desenzitizacijo [nikotina](http://dream-explorer.com/sanjanje/pripomocki/nikotin/) ter razgradnjo [galantamina](http://dream-explorer.com/sanjanje/pripomocki/galantamin/) in GPC. Maksimalen učinek doseže po 90 minutah, iz telesa pa se v celoti izloči v 30 urah.
+**Piracetam** spada med nootropike, ki imajo pozitiven učinek na možgane ter sposobnost razmišljanja in pomnjenja. Uporablja se za desenzitizacijo [nikotina](/sl/vodnik/nikotin) ter razgradnjo [galantamina](/sl/vodnik/galantamin) in GPC. Maksimalen učinek doseže po 90 minutah, iz telesa pa se v celoti izloči v 30 urah.
 
 Stranski učinki
 

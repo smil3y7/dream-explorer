@@ -6,7 +6,7 @@ order: 35
 source_slug: 5-htp
 ---
 
-**5-hidroksitriptofan** (5-HTP) je neposredni predhodnik [serotonina](http://dream-explorer.com/sanjanje/nevrotransmitorji/serotonin/), ki spodbuja nastanek kemikalij, potrebnih za njegovo proizvodnjo. Za razliko od serotonina lahko prehaja iz krvnega obtoka v možgane. V terapevtske namene se uporablja za odpravljanje depresije, zniževanje stresa in napetosti, spodbujanje spanca in lajšanje določenih tipov migrene. Maksimalen učinek doseže 90 minut po zaužitju in se iz telesa v celoti izloči po približno petnajstih urah.
+**5-hidroksitriptofan** (5-HTP) je neposredni predhodnik [serotonina](/sl/vodnik/serotonin), ki spodbuja nastanek kemikalij, potrebnih za njegovo proizvodnjo. Za razliko od serotonina lahko prehaja iz krvnega obtoka v možgane. V terapevtske namene se uporablja za odpravljanje depresije, zniževanje stresa in napetosti, spodbujanje spanca in lajšanje določenih tipov migrene. Maksimalen učinek doseže 90 minut po zaužitju in se iz telesa v celoti izloči po približno petnajstih urah.
 
 Stranski učinki
 

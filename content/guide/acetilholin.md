@@ -12,4 +12,4 @@ Rahlo dvignjen nivo acetilholina vpliva na boljši spomin in sposobnost učenja,
 
 Vpliv acetilholina na spanje in sanjanje
 
-ACh pomembno vpliva na uravnavanje spanja. Deluje obratno, kot [serotonin](http://dream-explorer.com/sanjanje/nevrotransmitorji/serotonin/) – ko tonemo v spanec, njegov nivo pada vse do najglobljih ne-REM faz, nato pa se dviguje in doseže stopnjo, primerljivo z budnim stanjem, ko vstopimo v REM fazo. ACh močno vpliva na sanje, saj povzroča dolge in intenzivne sanje ter boljši spomin nanje. Prav tako lahko služi kot sprožilec za lucidno sanjanje.
+ACh pomembno vpliva na uravnavanje spanja. Deluje obratno, kot [serotonin](/sl/vodnik/serotonin) – ko tonemo v spanec, njegov nivo pada vse do najglobljih ne-REM faz, nato pa se dviguje in doseže stopnjo, primerljivo z budnim stanjem, ko vstopimo v REM fazo. ACh močno vpliva na sanje, saj povzroča dolge in intenzivne sanje ter boljši spomin nanje. Prav tako lahko služi kot sprožilec za lucidno sanjanje.

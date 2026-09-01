@@ -8,6 +8,8 @@ import {
 } from "@/lib/content";
 import { Nav } from "@/components/Nav";
 import { Footer } from "@/components/Footer";
+import { GuideSidebar } from "@/components/GuideSidebar";
+import { BackToTop } from "@/components/BackToTop";
 
 export function generateStaticParams() {
   return [{ lang: "sl" }];
@@ -15,7 +17,7 @@ export function generateStaticParams() {
 
 export default function GuideIndexPage({ params }: { params: { lang: Lang } }) {
   const { lang } = params;
-  if (lang !== "sl") notFound(); // Vodnik trenutno obstaja samo v SL
+  if (lang !== "sl") notFound();
 
   const dict = getDictionary(lang);
   const pages = getGuidePages(lang);
@@ -23,34 +25,38 @@ export default function GuideIndexPage({ params }: { params: { lang: Lang } }) {
   return (
     <div className="min-h-screen bg-night">
       <Nav lang={lang} dict={dict} />
-      <main className="mx-auto max-w-3xl px-6 py-20">
-        <h1 className="mb-12 font-display text-4xl text-ink">Vodnik</h1>
+      <div className="mx-auto flex max-w-5xl gap-10 px-6 py-20">
+        <GuideSidebar lang={lang} pages={pages} />
 
-        {GUIDE_CATEGORY_ORDER.map(({ key, labelSl }) => {
-          const items = pages.filter((p) => p.frontmatter.category === key);
-          if (items.length === 0) return null;
-          return (
-            <section key={key} className="mb-14">
-              <h2 className="mb-4 font-mono text-xs uppercase tracking-[0.2em] text-moon">
-                {labelSl}
-              </h2>
-              <ul className="grid gap-2 border-l border-night-line pl-5">
-                {items.map((item) => (
-                  <li key={item.slug}>
-                    <Link
-                      href={`/${lang}/vodnik/${item.slug}`}
-                      className="text-ink transition-colors hover:text-moon"
-                    >
-                      {item.frontmatter.title}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </section>
-          );
-        })}
-      </main>
+        <main className="min-w-0 flex-1">
+          <h1 className="mb-4 font-display text-4xl text-ink">Vodnik</h1>
+          <p className="mb-12 max-w-xl text-dust">
+            Izberi kategorijo v stranskem meniju, ali začni tukaj — vsaka
+            kategorija je zasnovana tako, da jo lahko bereš po vrsti, od
+            začetka do konca.
+          </p>
+
+          {GUIDE_CATEGORY_ORDER.map(({ key, labelSl }) => {
+            const items = pages.filter((p) => p.frontmatter.category === key);
+            if (items.length === 0) return null;
+            const first = items[0];
+            return (
+              <Link
+                key={key}
+                href={`/${lang}/vodnik/${first.slug}`}
+                className="mb-4 block border border-night-line p-6 transition-colors hover:border-moon/60"
+              >
+                <span className="mb-1 block font-mono text-xs uppercase tracking-[0.2em] text-moon">
+                  {labelSl}
+                </span>
+                <span className="text-dust">{items.length} strani →</span>
+              </Link>
+            );
+          })}
+        </main>
+      </div>
       <Footer lang={lang} dict={dict} />
+      <BackToTop />
     </div>
   );
 }

@@ -11,7 +11,7 @@ Decembra 2015 sem bil povabljen na **Klepet ob kavi**, med katerim sva z voditel
 
 Lucidno sanjanje je veščina, ki se je lahko vsakdo priuči; potrebno je le nekaj časa in truda. Nekateri ljudje se ozavestijo hitreje, pri drugih lahko traja nekoliko dlje, ne glede na to pa imamo vsi priložnost “ukrotiti” svoje sanje in postati mojstri sanjanja.
 
-![Sanjalka](http://dream-explorer.com/sanjanje/wp-content/uploads/dreams-woman-300x226.jpg)
+![Sanjalka](/uploads/2016-06-20-sedem-korakov-za-spominjanje-sanj/dreams-woman-300x226.jpg)
 
 Zmožnost spominjanja sanj ni pomembna le za lucidno sanjanje, ampak tudi za vse druge oblike dela s sanjami. Na žalost pa spominjanje sanj ni nekaj samoumevnega. V splošnem velja, da ljudje sanjanju in sanjam ne posvečajo pretirane pozornosti in jim ne pripisujejo pomena, zato vsebine nočnih avantur pozabijo v trenutku, ko se zbudijo (od tod izhaja tudi zmotno prepričanje nekaterih, ki pravijo, da nikoli ne sanjajo). Naš um deluje podobno, kot mišice – za doseganje dobrih rezultatov jih je potrebno razvijati in krepiti. Če želimo na primer dvigniti 100 kilogramov, bomo najverjetneje začeli z lažjimi utežmi in težo postopoma povečevali do zastavljenega cilja. Podobno je z umom in spominjanjem sanj – vse, kar je potrebno za uspešno spominjanje, je nekoliko prakse, ki jo seveda pridobimo z vajo. Najučinkovitejši način za treniranje sanjskega spomina pa je zapisovanje sanj.
 
@@ -27,7 +27,7 @@ Ker v prvih petih minutah po bujenju izgubimo približno 50 odstotkov sanjskih v
 
 **3) Pred spanjem si v dnevnik zapišimo (lucidne) cilje.**
 
-[Postavljanje ciljev](http://dream-explorer.com/sanjanje/lucidni-cilji/) in doseganje le-teh deluje kot dodatna motivacija, poleg tega pa s tem sporočamo svoji podzavesti, da na sanje ne gledamo kot nekaj nepomembnega in da smo resni v svojem namenu, da bi si sanjske vsebine zapomnili. Začnimo s preprostimi cilji (na primer “Ko se bom zbudil/a, si bom zapomnil/a sanje.”) in postopno nadaljujmo z bolj kompleksnimi načrti.
+[Postavljanje ciljev](/sl/blog/2016-04-23-lucidni-cilji) in doseganje le-teh deluje kot dodatna motivacija, poleg tega pa s tem sporočamo svoji podzavesti, da na sanje ne gledamo kot nekaj nepomembnega in da smo resni v svojem namenu, da bi si sanjske vsebine zapomnili. Začnimo s preprostimi cilji (na primer “Ko se bom zbudil/a, si bom zapomnil/a sanje.”) in postopno nadaljujmo z bolj kompleksnimi načrti.
 
 **4) Odpravimo se spat.**
 

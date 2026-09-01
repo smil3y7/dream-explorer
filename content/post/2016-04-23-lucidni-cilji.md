@@ -7,7 +7,7 @@ source_slug: lucidni-cilji
 
 Postavljanje ciljev in njihovo doseganje je gonilo osebnega napredka in razvoja. To velja na vseh področjih življenja – tako v poslovnem svetu, kot tudi v zasebnem življenju. Pri tem pa ni izključeno niti (lucidno) sanjanje. Lucidni cilji predstavljajo pomemben korak, saj nam v sanjanju pomagajo usmerjati našo namero v konkretno, točno določeno aktivnost.
 
-![Iskanje rok](http://dream-explorer.com/sanjanje/wp-content/uploads/dream_hands-300x169.jpg)
+![Iskanje rok](/uploads/2016-04-23-lucidni-cilji/dream_hands-300x169.jpg)
 
 S postavljanjem lucidnih ciljev znatno povečamo svoje možnosti za ozaveščanje, poleg tega pa posredno podaljšamo tudi čas, ki ga preživimo v sanjanju. Največja “napaka”, ki jo pogosto naredimo tudi izkušeni sanjalci, in ki se običajno konča z izgubo lucidnosti, je namreč ravno v tem, da nimamo v naprej pripravljenega načrta, kaj želimo početi, doseči. Ko se ozavestimo v sanjah, običajno (predvsem pa v zgodnjih fazah) razpolagamo z zelo omejeno količino energije, ki se še hitreje razprši in razgubi, če naš namen ni definiran v naprej.
 

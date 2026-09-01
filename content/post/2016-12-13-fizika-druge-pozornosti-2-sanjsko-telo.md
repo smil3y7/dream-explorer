@@ -9,9 +9,9 @@ Telo, s katerim delujemo v Drugi pozornosti, seveda ni “fizično” telo, ampa
 
 “**Dvojnik**” ima sicer nekatere lastnosti našega fizičnega telesa (na primer izgled, velikost in spol), ker v Drugi pozornosti veljajo drugačne zakonitosti, pa lahko nanj po želji tudi vplivamo. Lahko se recimo povečamo, pomanjšamo, spremenimo spol ali prevzamemo živalsko obliko. Poleg samih sprememb, ki jih lahko izvedemo s sanjskim telesom (oziroma na njem), pa to poseduje tudi druge, “nadčloveške” sposobnosti – nadnaravno moč, hitrost, sposobnost levitiranja in letenja, zunajčutne zaznave, kot so jasnovidnost, jasnoslišnost, telepatija in druge.
 
-![sanjsko telo](https://dream-explorer.com/sanjanje/wp-content/uploads/energy_body.jpg)
+![sanjsko telo](/uploads/2016-12-13-fizika-druge-pozornosti-2-sanjsko-telo/energy_body.jpg)
 
-Sanjalci si pri ozaveščanju v sanjah pogosto pomagamo s **[testiranjem resničnosti](https://dream-explorer.com/sanjanje/kako/testiranje-resnicnosti/)** – manevrom, s katerim preverimo, če v nekem trenutku sanjamo. Resničnost lahko testiramo na različne načine, eden od teh pa je tudi **iskanje rok**.
+Sanjalci si pri ozaveščanju v sanjah pogosto pomagamo s **[testiranjem resničnosti](/sl/vodnik/testiranje-resnicnosti)** – manevrom, s katerim preverimo, če v nekem trenutku sanjamo. Resničnost lahko testiramo na različne načine, eden od teh pa je tudi **iskanje rok**.
 
 > “... Spet pridem na prazen trg, začnem teči. Med tekom dobim občutek, da so to mogoče sanje. Roko dvignem pred obraz in se zastrmim vanjo. Ta je sprva normalne oblike, kmalu pa se mi začnejo prsti deformirati in množiti. Sanjam! Še nekaj časa gledam spreminjajočo se roko in [z drgnjenjem dlani] poskušam okrepiti občutek sanjanja, potem pospešim tempo teka in stečem skozi park, ki izgleda kot labirint. Tečem naravnost skozi grmovje, ki me “šiba” po obrazu, vmes se poskušam spomniti, kaj sem nameraval narediti v sanjanju. Tema. Ne glede na to, kako močno se trudim, mi nič ne pade na pamet. Naenkrat ugotovim, da nisem več v parku... ”
 

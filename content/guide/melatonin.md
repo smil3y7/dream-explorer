@@ -6,7 +6,7 @@ order: 36
 source_slug: melatonin
 ---
 
-**Melatonin** je hormon, ki ga izloča žleza [češerika](https://sl.wikipedia.org/wiki/%C4%8Ce%C5%A1erika). Njegov namen je, da nam pomaga zaspati, služi pa lahko tudi kot nadomestek za [5-HTP](http://dream-explorer.com/sanjanje/pripomocki/5-htp/). Maksimalen učinek doseže 60 minut po zaužitju, iz telesa pa se v celoti izloči po šestih urah.
+**Melatonin** je hormon, ki ga izloča žleza [češerika](https://sl.wikipedia.org/wiki/%C4%8Ce%C5%A1erika). Njegov namen je, da nam pomaga zaspati, služi pa lahko tudi kot nadomestek za [5-HTP](/sl/vodnik/5-htp). Maksimalen učinek doseže 60 minut po zaužitju, iz telesa pa se v celoti izloči po šestih urah.
 
 Stranski učinki
 

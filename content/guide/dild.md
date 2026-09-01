@@ -12,11 +12,11 @@ Do ozaveščanja običajno pride zaradi enega od naslednjih razlogov:
 
 **1. Prepoznava objekta**
 
-Najdemo objekt, ki ga podzavestno povežemo s sanjami (glej “[Sanjska znamenja](http://dream-explorer.com/sanjanje/kako/sanjska-znamenja/)”).
+Najdemo objekt, ki ga podzavestno povežemo s sanjami (glej “[Sanjska znamenja](/sl/vodnik/sanjska-znamenja)”).
 
 **2. Testiranje resničnosti**
 
-Izvedemo [test resničnosti](http://dream-explorer.com/sanjanje/kako/testiranje-resnicnosti/) in se ozavestimo.
+Izvedemo [test resničnosti](/sl/vodnik/testiranje-resnicnosti) in se ozavestimo.
 
 **3. Anomalije**
 

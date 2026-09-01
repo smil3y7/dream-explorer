@@ -56,7 +56,7 @@ I will begin my “analysis” with some numbers and charts. Over the period of 
 
 \* 20 out of 168 non-LD (12%) were False Awakenings
 
-![Success rate of Galantamine-based LD attempts](https://dream-explorer.com/wp-content/uploads/2014/09/success_rate.jpg)
+![Success rate of Galantamine-based LD attempts](/uploads/2014-09-24-dreaming-with-supplements-galantamine/success_rate.jpg)
 
 The first thing I have to say is that even though Galantamine did significantly improve my ability of recalling dreams and it obviously did increase the probability of becoming aware within them (one out of almost four isn’t bad at all), there are some downsides as well.
 

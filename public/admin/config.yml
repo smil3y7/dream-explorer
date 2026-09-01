@@ -36,16 +36,22 @@ collections:
           - { label: "CTA link", name: "cta_href", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
 
-  # --- About: ena skupna datoteka za oba jezika ---
+  # --- About: ločeno po jeziku (ni prevod v enem, dva neodvisna teksta) ---
   - name: "about"
     label: "About / O meni"
     files:
-      - file: "content/pages/about.md"
-        label: "About (skupno SL+EN)"
-        name: "about"
+      - file: "content/pages/about-sl.md"
+        label: "O meni (SL)"
+        name: "about_sl"
         fields:
           - { label: "Naslov", name: "title", widget: "string" }
           - { label: "Vsebina", name: "body", widget: "markdown" }
+      - file: "content/pages/about-en.md"
+        label: "About (EN)"
+        name: "about_en"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
 
   # --- Vodnik / Guide: evergreen referenčna vsebina, po jeziku in kategoriji ---
   - name: "guide"

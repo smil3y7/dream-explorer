@@ -27,11 +27,12 @@ export async function getOriginStory(lang: Lang) {
 }
 
 /**
- * About page is shared across languages — one file, no lang suffix.
- * content/pages/about.md
+ * About page — sedaj po jeziku ločena datoteka (ne prevod v enem, ampak
+ * dva neodvisna teksta), enako kot Origin story.
+ * content/pages/about-sl.md, content/pages/about-en.md
  */
-export async function getAboutPage() {
-  const filePath = path.join(CONTENT_DIR, "pages", "about.md");
+export async function getAboutPage(lang: Lang) {
+  const filePath = path.join(CONTENT_DIR, "pages", `about-${lang}.md`);
   const raw = fs.readFileSync(filePath, "utf-8");
   const { data, content } = matter(raw);
   const html = await mdToHtml(content);
@@ -60,6 +61,10 @@ export const GUIDE_CATEGORY_ORDER: { key: GuideCategory; labelSl: string }[] = [
   { key: "navdih", labelSl: "Navdih" },
 ];
 
+const CATEGORY_RANK: Record<string, number> = Object.fromEntries(
+  GUIDE_CATEGORY_ORDER.map((c, i) => [c.key, i])
+);
+
 function readMarkdownDir(dir: string) {
   const full = path.join(CONTENT_DIR, dir);
   if (!fs.existsSync(full)) return [];
@@ -82,7 +87,13 @@ function readMarkdownDir(dir: string) {
 export function getGuidePages(lang: Lang) {
   return readMarkdownDir("guide")
     .filter((p) => p.frontmatter.lang === lang)
-    .sort((a, b) => (a.frontmatter.order ?? 0) - (b.frontmatter.order ?? 0));
+    .sort((a, b) => {
+      const catDiff =
+        (CATEGORY_RANK[a.frontmatter.category] ?? 99) -
+        (CATEGORY_RANK[b.frontmatter.category] ?? 99);
+      if (catDiff !== 0) return catDiff;
+      return (a.frontmatter.order ?? 0) - (b.frontmatter.order ?? 0);
+    });
 }
 
 export async function getGuidePage(lang: Lang, slug: string) {

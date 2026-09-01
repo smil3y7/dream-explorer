@@ -7,7 +7,7 @@ source_slug: fizika-druge-pozornosti-3-prostor
 
 Vprašanje, kaj sploh so “sanje”, vse do dandanes še vedno nima konkretnega odgovora, obstajajo pa številne različne teorije in razlage. Psihologi na primer pravijo, da so “mentalni konstrukt”, ki ga ustvarja naš um in ki nam pomaga “predelati” stvari, s katerimi se ukvarjamo čez dan. Na drugem bregu so razlage mistikov, okultistov in ne nazadnje tudi šamanov, ki verjamejo, da so sanje pravzaprav “resničen prostor” – “druge realnosti” (ali pa vsaj “prehodi”, ki vanje vodijo). Resnica je najverjetneje nekje vmes, kljub temu pa sem osebno bolj na strani slednjih, ker tudi moje izkušnje kažejo, da lahko skozi sanje počnemo in dosežemo neverjetne stvari.
 
-![portal v drugi prostor](https://dream-explorer.com/sanjanje/wp-content/uploads/portal-224x300.jpg)
+![portal v drugi prostor](/uploads/2017-01-31-fizika-druge-pozornosti-3-prostor/portal-224x300.jpg)
 
 Kadar govorim o Drugi pozornosti, običajno govorim o enem od dveh vidikov:
 
@@ -43,6 +43,6 @@ Tokratni prispevek bom zaključil s citatom iz knjige “**Druga resničnost**�
 
 Preberite tudi:
 
-[Fizika Druge pozornosti, 1. del: Prehod v nefizični svet](https://dream-explorer.com/sanjanje/fizika-druge-pozornosti-1-prehod-v-nefizicni-svet/)
+[Fizika Druge pozornosti, 1. del: Prehod v nefizični svet](/sl/blog/2016-11-20-fizika-druge-pozornosti-1-prehod-v-nefizicni-svet)
 
-[Fizika Druge pozornosti, 2. del: Sanjsko telo](https://dream-explorer.com/sanjanje/fizika-druge-pozornosti-2-sanjsko-telo/)
+[Fizika Druge pozornosti, 2. del: Sanjsko telo](/sl/blog/2016-12-13-fizika-druge-pozornosti-2-sanjsko-telo)

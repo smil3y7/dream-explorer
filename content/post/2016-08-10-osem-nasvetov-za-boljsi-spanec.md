@@ -7,11 +7,11 @@ source_slug: osem-nasvetov-za-boljsi-spanec
 
 Divji tempo življenja, velike količine kofeina in drugih stimulansov, številne čustvene drame, delovne obveznosti in stres so le nekateri od dejavnikov, zaradi katerih je vedno težje doseči kvaliteten spanec. Ker pa ta ni ključen le za uspešno sanjanje, ampak tudi za produktiven in prijeten dan ter za višjo kvaliteto življenja nasploh, si v nadaljevanju preberite **osem nasvetov za boljši spanec**.
 
-![Kvaliteten spanec](http://dream-explorer.com/sanjanje/wp-content/uploads/good_nights_sleep-300x192.jpg)
+![Kvaliteten spanec](/uploads/2016-08-10-osem-nasvetov-za-boljsi-spanec/good_nights_sleep-300x192.jpg)
 
 **#1 Vpeljimo spalno rutino.**
 
-![biological clock](http://dream-explorer.com/sanjanje/wp-content/uploads/clock1-150x150.jpg)Neenakomeren spalni ritem zmede biološko uro, kar se pozna na kvaliteti spanca. Določimo si čas, ob katerem bomo zvečer odhajali spat, ter uro, ob kateri bomo zjutraj vstajali in se skušajmo tega ritma čimbolj dosledno držati. Pomembna je konsistentnost; s tem namreč sporočamo možganom, kdaj je čas za počitek in kdaj čas za aktivnost.
+![biological clock](/uploads/2016-08-10-osem-nasvetov-za-boljsi-spanec/clock1-150x150.jpg)Neenakomeren spalni ritem zmede biološko uro, kar se pozna na kvaliteti spanca. Določimo si čas, ob katerem bomo zvečer odhajali spat, ter uro, ob kateri bomo zjutraj vstajali in se skušajmo tega ritma čimbolj dosledno držati. Pomembna je konsistentnost; s tem namreč sporočamo možganom, kdaj je čas za počitek in kdaj čas za aktivnost.
 
 **#2 Izogibajmo se poznim obrokom.**
 
@@ -23,7 +23,7 @@ Po dolgem in napornem dnevu se zagotovo prileže sprostitev, poleg tega pa je sp
 
 **#4 Privoščimo si skodelico sproščujočega (zeliščnega) čaja ali toplega mleka.**
 
-![Skodelica čaja](http://dream-explorer.com/sanjanje/wp-content/uploads/tea_lemon_mint_cup_transparent_44787_4710x2919-1-150x150.jpg)Skodelica čaja pred spanjem nas sprosti in prijetno pomiri. Že sam večerni obred priprave čaja nas mentalno pripravi in našim možganom pove, da se pripravljamo za spanje, s tem pa občutno pripomoremo k večji sproščenosti.
+![Skodelica čaja](/uploads/2016-08-10-osem-nasvetov-za-boljsi-spanec/tea_lemon_mint_cup_transparent_44787_4710x2919-1-150x150.jpg)Skodelica čaja pred spanjem nas sprosti in prijetno pomiri. Že sam večerni obred priprave čaja nas mentalno pripravi in našim možganom pove, da se pripravljamo za spanje, s tem pa občutno pripomoremo k večji sproščenosti.
 
 Za pripravo čaja lahko uporabimo različna zelišča – na primer kamilico, meto, sivko ali pasijonko, ki delujejo sproščujoče in imajo blag pomirjevalni učinek. Posamezno zelišče (ali kombinacijo različnih zelišč) prelijemo z vrelo vodo in pustimo stati 10-15 minut, nato pa precedimo in po okusu dodamo med in/ali mleko.
 
@@ -31,7 +31,7 @@ Za pripravo čaja lahko uporabimo različna zelišča – na primer kamilico, me
 
 **#5 Pred spanjem se izogibajmo gledanju v zaslone.**
 
-![Zasloni so vir modre svetlobe](http://dream-explorer.com/sanjanje/wp-content/uploads/phone-in-bed-300x150.jpg)Zasloni so vir umetne, modre svetlobe, ki [upočasnjuje in zmanjšuje proizvodnjo melatonina v možganih](http://www.ncbi.nlm.nih.gov/pubmed/18075803), brez katerega ne moremo zaspati. Z gledanjem v zaslone prekinimo vsaj pol ure do uro pred spanjem in ta čas raje posvetimo branju ali kakemu drugemu opravilu. S tem telesu zagotovimo čas, da sprosti spalne hormone, ki nam pomagajo zaspati in potoniti v sanje.
+![Zasloni so vir modre svetlobe](/uploads/2016-08-10-osem-nasvetov-za-boljsi-spanec/phone-in-bed-300x150.jpg)Zasloni so vir umetne, modre svetlobe, ki [upočasnjuje in zmanjšuje proizvodnjo melatonina v možganih](http://www.ncbi.nlm.nih.gov/pubmed/18075803), brez katerega ne moremo zaspati. Z gledanjem v zaslone prekinimo vsaj pol ure do uro pred spanjem in ta čas raje posvetimo branju ali kakemu drugemu opravilu. S tem telesu zagotovimo čas, da sprosti spalne hormone, ki nam pomagajo zaspati in potoniti v sanje.
 
 Če se uporabi elektronskih naprav na noben način ne moremo izogniti, pa lahko uporabimo [f.lux](https://justgetflux.com/) – brezplačno aplikacijo, ki prilagaja osvetlitev zaslona glede na pozicijo sonca na nebu. Aplikacija uporablja GPS lokacijo za določanje položaja sonca. S to informacijo samodejno zmanjša osvetlitev in močne barve na zaslonu naše naprave.
 
@@ -47,14 +47,14 @@ Melatonin je na voljo bi tudi kot [prehransko dopolnilo](http://amzn.to/2ad8Wvm)
 
 **#8 Uporabimo spalno masko.**
 
-![Spalna maska](http://dream-explorer.com/sanjanje/wp-content/uploads/Sleep_mask-300x183.jpg)Da bi zagotovili temo, si lahko pomagamo tudi s [spalnimi maskami](http://amzn.to/2anbY3l). Izbiramo lahko med najrazličnejšimi modeli – od čisto “osnovnih” iz blaga, ki jih lahko dobimo že za dobre 4 € (približno 6 ameriških dolarjev), pa do nekoliko [bolj kvalitetnih](http://amzn.to/2aGfXKQ) v cenovnem rangu od 10-15 € (oziroma 11-17 ameriških dolarjev) in nenazadnje tistih bolj “naprednih”, ki nam poleg same zaščite pred svetlobo omogočajo tudi [poglobljeno sprostitev](http://amzn.to/2ammip3), ali pa vsebujejo že vgrajene [slušalke za poslušanje glasbe](http://amzn.to/2aGgYSX) in katerih cene se gibljejo med 25 in 40 € (oziroma 30-50 ameriških dolarjev). Še boljši, brezžični modeli so seveda še nekoliko dražji.
+![Spalna maska](/uploads/2016-08-10-osem-nasvetov-za-boljsi-spanec/Sleep_mask-300x183.jpg)Da bi zagotovili temo, si lahko pomagamo tudi s [spalnimi maskami](http://amzn.to/2anbY3l). Izbiramo lahko med najrazličnejšimi modeli – od čisto “osnovnih” iz blaga, ki jih lahko dobimo že za dobre 4 € (približno 6 ameriških dolarjev), pa do nekoliko [bolj kvalitetnih](http://amzn.to/2aGfXKQ) v cenovnem rangu od 10-15 € (oziroma 11-17 ameriških dolarjev) in nenazadnje tistih bolj “naprednih”, ki nam poleg same zaščite pred svetlobo omogočajo tudi [poglobljeno sprostitev](http://amzn.to/2ammip3), ali pa vsebujejo že vgrajene [slušalke za poslušanje glasbe](http://amzn.to/2aGgYSX) in katerih cene se gibljejo med 25 in 40 € (oziroma 30-50 ameriških dolarjev). Še boljši, brezžični modeli so seveda še nekoliko dražji.
 
 Izbira spalne maske je v veliki meri odvisna od tega, s kakšnim namenom jo kupujemo in kako globoko smo zanjo pripravljeni seči v žep, poleg tega pa moramo nujno upoštevati še naslednje:
 
 * Maska se mora dobro prilegati obrazu, da ne prepušča svetlobe.
 * Zelo pomemben je način pritrditve. Trak mora biti zadosti močan, da nam maska med nočnim premikanjem ne zdrsne iz obraza, hkrati pa dovolj nežen, da nam celonočno nošenje ne povzroča nelagodja, ki se med spanjem zlahka spremeni v nočno moro.
 
-Na kakovost spanca lahko seveda vplivajo še drugi dejavniki – na primer izbira udobnega, ustrezno trdega ležišča, uporaba lahkih odej ali pregrinjal za pokrivanje ter kvalitetnih vzglavnikov, ki omogočajo čimbolj naraven položaj telesa, pa zadosti telesne aktivnosti čez dan, (večerna) meditacija in ne nazadnje tudi najrazličnejša prehranska dopolnila (na primer [5-HTP](http://amzn.to/2abA82g), [L-teanin](http://amzn.to/2aw4I20) ali [baldrijan](http://www.ncbi.nlm.nih.gov/pubmed/20347389)) in [tinkture](http://dream-explorer.com/sanjanje/product-category/tinkture/), ki nam pomagajo zaspati.
+Na kakovost spanca lahko seveda vplivajo še drugi dejavniki – na primer izbira udobnega, ustrezno trdega ležišča, uporaba lahkih odej ali pregrinjal za pokrivanje ter kvalitetnih vzglavnikov, ki omogočajo čimbolj naraven položaj telesa, pa zadosti telesne aktivnosti čez dan, (večerna) meditacija in ne nazadnje tudi najrazličnejša prehranska dopolnila (na primer [5-HTP](http://amzn.to/2abA82g), [L-teanin](http://amzn.to/2aw4I20) ali [baldrijan](http://www.ncbi.nlm.nih.gov/pubmed/20347389)) in [tinkture](/sl/trgovina), ki nam pomagajo zaspati.
 
 Kot sem omenil že na začetku, je dober spanec pomemben za naše splošno počutje ter naše fizično in psihično zdravje nasploh. Daljša obdobja nespečnosti in odsotnosti spanja lahko vodijo do najrazličnejših zdravstvenih težav, zato je za optimalno zdravje pomembno, da se zbujamo naspani in spočiti.
 

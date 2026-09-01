@@ -10,7 +10,7 @@ Verjetno je v človeški naravi, da iščemo najlažje poti in jaz zagotovo nise
 
 Med iskanjem “bližnjic” za doseganje lucidnosti sem naletel na knjigo “**[Advanced Lucid Dreaming – The Power of Supplements (2006)](http://amzn.to/22dp8SH)**”, v kateri avtor Thomas Yuschak podrobno pojasni, kako zaužitje določenih snovi povzroča kemijske spremembe v možganih, te pa posredno ali neposredno vplivajo na kvaliteto in dolžino spanca, intenzivnost sanj in možnost spominjanja le-teh.
 
-[![Thomas Yuschak - Advanced Lucid Dreaming - The Power of Supplements](http://dream-explorer.com/sanjanje/wp-content/uploads/Thomas-Yuschak-Advanced-Lucid-Dreaming-The-Power-of-Supplements-200x300.jpg)](http://amzn.to/22dp8SH)
+[![Thomas Yuschak - Advanced Lucid Dreaming - The Power of Supplements](/uploads/pripomocki/Thomas-Yuschak-Advanced-Lucid-Dreaming-The-Power-of-Supplements-200x300.jpg)](http://amzn.to/22dp8SH)
 
 Preko menija “**PRIPOMOČKI**” na vrhu strani so na voljo osnovne informacije o štirih ključnih nevrotransmitorjih, v nadaljevanju pa so informacije o rastlinah in prehranskih dodatkih ter njihovih učinkih na spanje in sanjanje. Besedila so povzeta in prevedena v slovenščino iz omenjene knjige, o mojih izkušnjah z uporabo prehranskih dopolnil pa si lahko preberete **[na forumu](http://dream-explorer.com/sanjanje/forum/index.php?topic=105.0forum/index.php?board=17.0)**.
 

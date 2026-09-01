@@ -7,7 +7,7 @@ source_slug: 9-ucinkovitih-trikov-kako-ostati-v-lucidnih-sanjah
 
 Ena od največjih frustracij vseh, ki se ukvarjamo z lucidnim sanjanjem, je zagotovo to, da se (končno) ozavestimo, a se zbudimo nedolgo za tem. Kaj lahko naredimo takrat? Precej malo... S tehniko “veriženja” (DEILD – ang. “Dream Exit Induced Lucid Dream”) sicer lahko poskusimo ponovno vstopiti v sanjanje, v večini primerov pa, saj veste – priložnost zamujena... Nikoli pa ni prepozno, da se seznanimo s tehnikami in triki, ki nam pomagajo nenadno (in neželeno) zbujanje v bodoče preprečiti in izvemo, kako ostati v lucidnih sanjah.
 
-![Kako ostati v lucidnih sanjah](https://dream-explorer.com/sanjanje/wp-content/uploads/2017/11/lucid-dreaming.jpg)
+![Kako ostati v lucidnih sanjah](/uploads/2017-11-20-9-ucinkovitih-trikov-kako-ostati-v-lucidnih-sanjah/lucid-dreaming.jpg)
 
 Zakaj prihaja do tega?
 
@@ -57,7 +57,7 @@ Cilj je aktivirati predele možganov, ki vam pomagajo graditi in ohranjati pozor
 
 7. **Vzemite prehransko dopolnilo.**
 
-Čeprav to ni za vsakogar, pa prehranska dopolnila predstavljajo dodaten “potisk”. Uporaba prehranskih dopolnil seveda ni mišljena kot “bergla”, ampak kot občasna podpora pri procesu ozaveščanja. Predvsem v zgodnjih fazah dela s sanjami lahko prehranska dopolnila približajo in prikažejo nekatere neverjetne globine lucidnega sanjanja. Če vas tovrstno eksperimentiranje zanima, vam je več informacij na voljo v e-knjižici [Oneirogeni - 5 najboljših rastlinskih pripomočkov za sanjanje](https://dream-explorer.com/sanjanje/shop/oneirogeni-5-najboljsih-rastlinskih-pripomockov-za-sanjanje/).
+Čeprav to ni za vsakogar, pa prehranska dopolnila predstavljajo dodaten “potisk”. Uporaba prehranskih dopolnil seveda ni mišljena kot “bergla”, ampak kot občasna podpora pri procesu ozaveščanja. Predvsem v zgodnjih fazah dela s sanjami lahko prehranska dopolnila približajo in prikažejo nekatere neverjetne globine lucidnega sanjanja. Če vas tovrstno eksperimentiranje zanima, vam je več informacij na voljo v e-knjižici [Oneirogeni - 5 najboljših rastlinskih pripomočkov za sanjanje](/sl/trgovina).
 
 8. **Zavrtite se okoli svoje osi.**
 
@@ -71,4 +71,4 @@ A previdno! Vrtenje lahko povzroči tudi izgubo vizualne zaznave – uporablja s
 
 S tem ustvarite intenzivno “fizično” zaznavo, ki močno okrepi zaznavo vašega sanjskega telesa. Čeprav je občutek nadvse zanimiv, predlagam, naj vam bo to res skrajna možnost. Padec nazaj lahko namreč povzroči tudi to, da vas vrže iz sanj in se posledično znajdete v lažnem prebujenju ali pa se dejansko zbudite.
 
-Preden zaključim tokratni prispevek, naj vam dam še en dodaten nasvet: V naprej [imejte pripravljen jasen cilj](https://dream-explorer.com/sanjanje/lucidni-cilji/), kaj boste naredili, ko se boste ozavestili. Tako ne boste zapravljali dragocenega časa in energije za razmišljanje o tem, kaj bi počeli, temveč boste lahko lucidne sanje kar najbolje izkoristili.
+Preden zaključim tokratni prispevek, naj vam dam še en dodaten nasvet: V naprej [imejte pripravljen jasen cilj](/sl/blog/2016-04-23-lucidni-cilji), kaj boste naredili, ko se boste ozavestili. Tako ne boste zapravljali dragocenega časa in energije za razmišljanje o tem, kaj bi počeli, temveč boste lahko lucidne sanje kar najbolje izkoristili.

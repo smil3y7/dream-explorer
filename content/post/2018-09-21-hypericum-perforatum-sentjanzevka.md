@@ -28,4 +28,4 @@ Pred spanjem v obliki tinkture, ekstrakta ali poparka/čaja.
 ---
 
  
-Če želite spoznati še druge oneirogene (rastline za sanjanje), ne spreglejte e-knjižice [**Oneirogeni – 5 najboljših rastlinskih pripomočkov za sanjanje**](https://dream-explorer.com/sanjanje/shop/oneirogeni-5-najboljsih-rastlinskih-pripomockov-za-sanjanje/).
+Če želite spoznati še druge oneirogene (rastline za sanjanje), ne spreglejte e-knjižice [**Oneirogeni – 5 najboljših rastlinskih pripomočkov za sanjanje**](/sl/trgovina).

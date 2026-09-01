@@ -7,7 +7,7 @@ source_slug: kolektivni-simboli-sanj-in-stvari-v-grlu
 
 Se vam je kdaj sanjalo, da vas je čakal pomemben javni nastop (ali izpit), vi pa ste tik pred zdajci enostavno “zmrznili” ali pa ste se na dogodek prikazali popolnoma goli? Da se vam je nekam mudilo, a ste zamudili prevoz? Kaj pa, da vas je tiščalo na potrebo, stranišče (največkrat javno) pa je bilo tako umazano, da se ne da opisati z besedami? Ali pa, da so vam med umivanjem začeli izpadati zobje?
 
-![Gol v javnosti (slika je iz http://identity-mag.com/egyptian-unexplainable-myths/)](http://dream-explorer.com/sanjanje/wp-content/uploads/2015/10/dreams_naked_large-300x300.jpg)
+![Gol v javnosti (slika je iz http://identity-mag.com/egyptian-unexplainable-myths/)](/uploads/2015-10-11-kolektivni-simboli-sanj-in-stvari-v-grlu/dreams_naked_large-300x300.jpg)
 
 Če ste na katero od vprašanj odgovorili pritrdilno, zagotovo poznate tudi občutke, ki so sanje spremljali ob bujenju in se najverjetneje zavlekli še dolgo v dan. Naj vas potolažim – niste edini. Omenjeni primeri so le nekateri od številnih kolektivnih sanjskih simbolov; sanj, s katerimi se vsakdo kdaj sooči. Če jih začnemo razčlenjevati in raziskovati iz vidika pomenov, hitro ugotovimo, da so simboli povezani s samopodobo, z željo/potrebo po sprejemanju, s strahom pred neuspehom.
 

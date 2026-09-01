@@ -7,7 +7,7 @@ source_slug: plonk-ceglc-za-spominjanje-sanj
 
 **Spominjanje sanj** je prvi in najpomembnejši korak pri vseh oblikah dela s sanjami. Kaj nam namreč koristijo vse tehnike in pripomočki, ki nam pomagajo pri ozaveščanju, če pa se ob bujenju ne spomnimo ničesar? Sposobnost spominjanja sanj na žalost ni samoumevna, zato marsikomu predstavlja težavo in precejšen izziv. Kljub temu, da je izziv še posebej prisoten pri začetnikih oziroma v začetnih fazah ukvarjanja s sanjanjem, pa to ne pomeni, da se ne zgodi tudi izkušenim sanjalcem. Za vse, ki se “borite” s priklicom sanjskih vsebin, sem sestavil “plonk ceglc” za spominjanje sanj.
 
-![Sanjski dnevnik kot pripomoček za spominjanje sanj](https://dream-explorer.com/sanjanje/wp-content/uploads/Dream-Recall-300x194.jpg)
+![Sanjski dnevnik kot pripomoček za spominjanje sanj](/uploads/2017-03-01-plonk-ceglc-za-spominjanje-sanj/Dream-Recall-300x194.jpg)
 
 **Kaj vse vpliva na sposobnost spominjanja sanj?**
 

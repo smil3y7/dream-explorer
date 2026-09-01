@@ -10,7 +10,7 @@ iz WXR izvoza** (preverjeno: `npm run build` uspešno generira vseh 83 strani).
 | Stran | SL | EN | Vsebina |
 |---|---|---|---|
 | Domov | `/sl` | `/en` | Origin story (osnutek, za revizijo) |
-| O meni | `/sl/about` | `/en/about` | Prava vsebina iz "O meni" (skupna) |
+| O meni | `/sl/about` | `/en/about` | Ločena vsebina po jeziku (ni več skupna) |
 | Vodnik | `/sl/vodnik` + 42 podstrani | — | Migrirano iz WXR |
 | Blog | `/sl/blog` + 18 objav | `/en/blog` + 4 objave | Migrirano iz WXR |
 | Trgovina | `/sl/trgovina` | `/en/shop` | Prazno — čaka payment linke |
@@ -73,6 +73,36 @@ V `public/admin/config.yml` zamenjaj:
 Obišči `https://tvoja-domena.com/admin` → "Login with GitHub" → potrdiš dostop →
 znajdeš se v urejevalniku z vsemi collections (Origin Story, About, Vodnik, Blog,
 Trgovina, Testimonials).
+
+## 8. Manjkajoče slike (nujno pred ugasnitvijo starega WordPressa)
+
+33 slik iz stare vsebine (Vodnik in Blog) še vedno kaže na `dream-explorer.com`.
+Poti v besedilu so že posodobljene na `/uploads/...`, dejanske datoteke pa je
+treba prenesti — izberi skripto glede na svoj operacijski sistem:
+
+**Mac/Linux:**
+```bash
+bash scripts/download-legacy-images.sh
+```
+(potrebuje `jq` — `brew install jq` / `apt install jq`)
+
+**Windows (PowerShell):**
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\download-legacy-images.ps1
+```
+(brez dodatnih namestitev — PowerShell je del Windows)
+
+Obe prenesta vseh 33 slik na pravilna mesta v `public/uploads/`. **To poženi,
+preden ugasneš stari WordPress** — po ugasnitvi slik ni več mogoče pridobiti.
+Po prenosu samo `git add public/uploads && git commit && git push`.
+
+## 9. Gradivo za Programe (ni objavljeno)
+
+`scripts/programi-reference-NEOBJAVITI.md` vsebuje izvirno besedilo za
+Inkubator sanj, Inkubator 101 in individualno svetovanje — ločeno na
+časovno neodvisen opis (uporabno) in zastarele logistične podatke (cena,
+lokacija, platforma — vse iz 2015–2018, preveri pred uporabo). To ni
+del žive strani, samo referenca za kasneje.
 
 ## Kaj (še) manjka
 

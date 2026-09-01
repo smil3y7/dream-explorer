@@ -9,7 +9,7 @@ source_slug: sanje-v-sanjah
 
 Sanjanje je včasih nadvse nenavadna izkušnja. Stvari, ki jih doživljamo, so lahko tako resnične, da je nemogoče z gotovostjo trditi, če se nam vse skupaj dejansko dogaja, ali pa mogoče vendarle še vedno spimo in sanjamo svet okoli sebe. Še bolj nenavadno pa je, kadar sanjamo sanje v sanjah...
 
-![levitate](http://dream-explorer.com/sanjanje/wp-content/uploads/2016/02/levitate-300x174.jpg)
+![levitate](/uploads/2016-02-08-sanje-v-sanjah/levitate-300x174.jpg)
 
 > Prebudim se in v roke vzamem telefon, da bi pogledal, koliko je ura. Nekaj ni prav – telefona ni na nočni omarici, ki stoji poleg “narobe” obrnjene postelje. Med tem, ko se obračam okoli in tipam, kam sem ga vtaknil, prebudim Katjo. Na hitro ji razložim, zakaj rogovilim naokrog. Pridruži se mi pri iskanju, telefon kmalu najdeva med rjuhami. Odprem ga in vidim, da je zaslon “razlit”, telefon pa polomljen. Čudim se, kaj, za vraga, se je zgodilo, in že premišljujem, da bom v službi moral zaprositi za zamenjavo. Katja odide na stranišče. Ko se vrne, ravno “sestavim” nekakšno ohišje, ki telefon za nekajkrat poveča.
 >

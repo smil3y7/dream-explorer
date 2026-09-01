@@ -6,7 +6,7 @@ order: 31
 source_slug: nikotin
 ---
 
-**Nikotin** deluje kot [acetilholin (ACh)](http://dream-explorer.com/sanjanje/nevrotransmitorji/acetilholin/) agonist, kar pomeni, da ima enak učinek kot ACh in enostavno preide iz krvnega obtoka v možgane. Povzroča kratko- in dolgoročno desenzibilizacijo ACh receptorjev (blokira njihovo delovanje; neobčutljivost). Sicer ni rakotvoren, povzroča pa odvisnost ob redni uporabi in je toksičen že v malih količinah.
+**Nikotin** deluje kot [acetilholin (ACh)](/sl/vodnik/acetilholin) agonist, kar pomeni, da ima enak učinek kot ACh in enostavno preide iz krvnega obtoka v možgane. Povzroča kratko- in dolgoročno desenzibilizacijo ACh receptorjev (blokira njihovo delovanje; neobčutljivost). Sicer ni rakotvoren, povzroča pa odvisnost ob redni uporabi in je toksičen že v malih količinah.
 
 Z nikotinskim obližem dosežemo maksimalen učinek po 7,5 urah, razpolovilni čas pa je 2 uri po tem, ko obliž odstranimo.
 
@@ -16,4 +16,4 @@ Nikotin ima najhujše stranske učinke od vseh opisanih dodatkov – povzroča v
 
 Vpliv na sanjanje
 
-Nikotin ima močan učinek na lucidno sanjanje, če 1) ga uporabljamo ob redkih priložnostih, 2) v majhnih količinah in 3) imamo pripravljen proaktiven način za preprečevanje desenzibilizacije. Njegovo delovanje je podobno GPC – deluje kot sprožilec za lucidno sanjanje ali kot ojačevalec za [galantamin](http://dream-explorer.com/sanjanje/pripomocki/galantamin/).
+Nikotin ima močan učinek na lucidno sanjanje, če 1) ga uporabljamo ob redkih priložnostih, 2) v majhnih količinah in 3) imamo pripravljen proaktiven način za preprečevanje desenzibilizacije. Njegovo delovanje je podobno GPC – deluje kot sprožilec za lucidno sanjanje ali kot ojačevalec za [galantamin](/sl/vodnik/galantamin).

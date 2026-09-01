@@ -12,7 +12,7 @@ export default async function AboutPage({
   params: { lang: Lang };
 }) {
   const lang = params.lang;
-  const { html } = await getAboutPage();
+  const { html } = await getAboutPage(lang);
   const dict = getDictionary(lang);
 
   return (

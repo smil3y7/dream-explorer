@@ -19,4 +19,4 @@ Moje potovanje se je začelo pred več kot desetletjem, ko so mi pod roke prišl
 >
 > Jaz sem tvoj drugi Ti...
 
-![In Lak' ech Ala K'in](http://dream-explorer.com/sanjanje/wp-content/uploads/2015/11/In_Lak_ech_Ala_Kin-300x300.jpg)
+![In Lak' ech Ala K'in](/uploads/2015-11-18-in-lak-ech-ala-kin/In_Lak_ech_Ala_Kin-300x300.jpg)

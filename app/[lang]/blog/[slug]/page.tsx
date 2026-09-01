@@ -3,6 +3,7 @@ import Link from "next/link";
 import { getPost, getPosts, getDictionary, type Lang } from "@/lib/content";
 import { Nav } from "@/components/Nav";
 import { Footer } from "@/components/Footer";
+import { BackToTop } from "@/components/BackToTop";
 
 export function generateStaticParams() {
   const sl = getPosts("sl").map((p) => ({ lang: "sl", slug: p.slug }));
@@ -43,6 +44,7 @@ export default async function PostPage({
         />
       </main>
       <Footer lang={lang} dict={dict} />
+      <BackToTop />
     </div>
   );
 }

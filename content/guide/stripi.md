@@ -6,5 +6,5 @@ order: 4
 source_slug: stripi
 ---
 
-![Calvin has FA](http://dream-explorer.com/sanjanje/wp-content/uploads/CalvinhasFA.gif)
-![Inception: Calvin and Hobbes version](http://dream-explorer.com/sanjanje/wp-content/uploads/Inception-Calvin-and-Hobbes-version.jpg)
+![Calvin has FA](/uploads/stripi/CalvinhasFA.gif)
+![Inception: Calvin and Hobbes version](/uploads/stripi/Inception-Calvin-and-Hobbes-version.jpg)

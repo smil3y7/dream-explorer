@@ -20,4 +20,4 @@ Podobna logika velja za sanje - tudi sanjski svet je model, ki ga ustvarja naš 
 
 Terminologija, ki jo uporabljamo za opisovanje posameznih izrazov in tehnik, je stvar dogovora med sanjalci, zato se pri opisih skušam teh izrazov držati, kolikor je to pač mogoče. Ker je slovenščina iz vidika prevajanja včasih precej “okorna”, ponekod uporabljam kar “originalne” (angleške) izraze ali kratice.
 
-Za lažje razumevanje sem sestavil [spisek najpogosteje uporabljenih okrajšav in izrazov](http://dream-explorer.com/sanjanje/kako/terminologija/), ki jih boste zasledili v besedilih. Seznam bom še dopolnjeval, zato priporočam, da se k njemu večkrat vračate. Poleg morebitnih “novosti” je to namreč prvi korak pri “nadgradnji” vašega opisa sveta.
+Za lažje razumevanje sem sestavil [spisek najpogosteje uporabljenih okrajšav in izrazov](/sl/vodnik/terminologija), ki jih boste zasledili v besedilih. Seznam bom še dopolnjeval, zato priporočam, da se k njemu večkrat vračate. Poleg morebitnih “novosti” je to namreč prvi korak pri “nadgradnji” vašega opisa sveta.

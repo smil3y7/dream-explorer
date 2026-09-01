@@ -12,4 +12,4 @@ source_slug: wbtb
 2. Ko zazvoni, vstanemo in zapišemo sanje, iz katerih smo se zbudili.
 3. Vstanemo iz postelje - pomembno je, da čim bolj prebudimo um, telo pa ostane prijetno sproščeno. Lahko si privoščimo tuš, kaj prigriznemo,... Priporočljivo je, da počnemo nekaj, kar je povezano s sanjanjem -  kaj preberemo, zapišemo, pregledujemo stare sanje,...
 4. Pokonci ostanemo približno eno uro, nato pa gremo nazaj spat.
-5. Izvedemo katero od drugih metod za doseganje lucidnosti (odštevanje v sanje, [WILD](http://dream-explorer.com/sanjanje/tehnike/wild/), [MILD](http://dream-explorer.com/sanjanje/tehnike/mild/),..).
+5. Izvedemo katero od drugih metod za doseganje lucidnosti (odštevanje v sanje, [WILD](/sl/vodnik/wild), [MILD](/sl/vodnik/mild),..).
