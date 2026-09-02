@@ -1,4 +1,5 @@
 import type { Lang } from "@/lib/content";
+import { BuildInfo } from "./BuildInfo";
 
 export function Footer({ lang, dict }: { lang: Lang; dict: any }) {
   return (
@@ -22,6 +23,7 @@ export function Footer({ lang, dict }: { lang: Lang; dict: any }) {
           </a>
         </div>
       </div>
+      <BuildInfo />
     </footer>
   );
 }

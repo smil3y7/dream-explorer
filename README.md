@@ -104,6 +104,15 @@ Inkubator sanj, Inkubator 101 in individualno svetovanje — ločeno na
 lokacija, platforma — vse iz 2015–2018, preveri pred uporabo). To ni
 del žive strani, samo referenca za kasneje.
 
+## 10. Build indikator (samo za razvojno fazo)
+
+V vznožju vsake strani je droben, komaj viden napis "build {commit} · {čas}"
+— pomaga med testiranjem preveriti, ali gledaš najnovejši deploy ali staro
+predpomnjeno stran. Na Vercelu se samodejno izpiše pravi git commit hash;
+lokalno prikaže "local". **Ko stran zaključiš in tega ne rabiš več:**
+odstrani `<BuildInfo />` iz `components/Footer.tsx` (ena vrstica) in izbriši
+`components/BuildInfo.tsx` — brez drugih odvisnosti.
+
 ## Kaj (še) manjka
 
 - **Kontaktni obrazec** trenutno odpre `mailto:` — zamenjaj z Formspree/podobnim, ko boš to želel avtomatizirati, in poveži z Mailchimp listo.

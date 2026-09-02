@@ -18,5 +18,8 @@
     "followFacebook": "Sledi na Facebooku",
     "followYoutube": "Sledi na YouTubu",
     "rights": "Vse pravice pridržane."
+  },
+  "blog": {
+    "readingTime": "min branja"
   }
 }

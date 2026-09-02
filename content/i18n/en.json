@@ -18,5 +18,8 @@
     "followFacebook": "Follow on Facebook",
     "followYoutube": "Follow on YouTube",
     "rights": "All rights reserved."
+  },
+  "blog": {
+    "readingTime": "min read"
   }
 }

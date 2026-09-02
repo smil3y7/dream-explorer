@@ -106,9 +106,37 @@ export async function getGuidePage(lang: Lang, slug: string) {
 
 // ---------- Blog ----------
 
+function extractExcerpt(markdown: string, maxLen = 160): string {
+  const text = markdown
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, "")
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, "$1")
+    .replace(/[#*_>`~]/g, "")
+    .replace(/-{2,}/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+  if (text.length <= maxLen) return text;
+  return text.slice(0, maxLen).replace(/\s+\S*$/, "") + "…";
+}
+
+function extractCoverImage(markdown: string): string | null {
+  const match = markdown.match(/!\[[^\]]*\]\(([^)]+)\)/);
+  return match ? match[1] : null;
+}
+
+function estimateReadingTime(markdown: string): number {
+  const words = markdown.trim().split(/\s+/).filter(Boolean).length;
+  return Math.max(1, Math.round(words / 200));
+}
+
 export function getPosts(lang: Lang) {
   return readMarkdownDir("post")
     .filter((p) => p.frontmatter.lang === lang)
+    .map((p) => ({
+      ...p,
+      excerpt: extractExcerpt(p.content),
+      coverImage: extractCoverImage(p.content),
+      readingTime: estimateReadingTime(p.content),
+    }))
     .sort((a, b) => (a.frontmatter.date < b.frontmatter.date ? 1 : -1));
 }
 
