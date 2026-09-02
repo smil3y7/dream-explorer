@@ -10,13 +10,13 @@ export function Footer({ lang, dict }: { lang: Lang; dict: any }) {
         </p>
         <div className="flex gap-5">
           <a
-            href="https://facebook.com"
+            href="https://www.facebook.com/UmetnostSanjanja"
             className="transition-colors hover:text-moon"
           >
             {dict.footer.followFacebook}
           </a>
           <a
-            href="https://youtube.com"
+            href="https://www.youtube.com/channel/UCOXVovoGX5Oy3FGV-oVppoA"
             className="transition-colors hover:text-moon"
           >
             {dict.footer.followYoutube}

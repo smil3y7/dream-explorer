@@ -3,6 +3,7 @@ import Link from "next/link";
 import { getDictionary, getTestimonials, type Lang } from "@/lib/content";
 import { Nav } from "@/components/Nav";
 import { Footer } from "@/components/Footer";
+import { TestimonialSlider } from "@/components/TestimonialSlider";
 
 export function generateStaticParams() {
   return [{ lang: "sl" }];
@@ -39,19 +40,7 @@ export default function ProgramiPage({ params }: { params: { lang: Lang } }) {
             <h2 className="mb-6 font-mono text-xs uppercase tracking-[0.2em] text-moon">
               Izkušnje udeležencev — Inkubator sanj
             </h2>
-            <ul className="flex flex-col gap-6">
-              {testimonials.map((t) => (
-                <li
-                  key={t.slug}
-                  className="border-l border-night-line pl-5 text-dust"
-                >
-                  <p className="mb-2 italic">&ldquo;{t.frontmatter.quote}&rdquo;</p>
-                  <span className="font-mono text-xs text-moon">
-                    {t.frontmatter.name}
-                  </span>
-                </li>
-              ))}
-            </ul>
+            <TestimonialSlider testimonials={testimonials} />
           </section>
         )}
       </main>

@@ -6,4 +6,7 @@ out/
 .env
 .env.local
 .DS_Store
-scripts/
+
+# Poslovno občutljivo - vsebuje cenovno strategijo in premisleke,
+# ne za javni repozitorij (glej README, razdelek 9)
+scripts/programi-reference-NEOBJAVITI.md
