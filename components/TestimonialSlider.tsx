@@ -16,8 +16,6 @@ export function TestimonialSlider({
 
   if (testimonials.length === 0) return null;
 
-  const current = testimonials[index];
-
   function prev() {
     setIndex((i) => (i === 0 ? testimonials.length - 1 : i - 1));
   }
@@ -27,27 +25,37 @@ export function TestimonialSlider({
   }
 
   return (
-    <div className="flex h-72 max-w-xl flex-col justify-between">
-      <div className="flex gap-4 border-l border-night-line pl-5">
-        {current.frontmatter.image && (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img
-            src={current.frontmatter.image}
-            alt={current.frontmatter.name}
-            className="h-14 w-14 shrink-0 rounded-full object-cover"
-          />
-        )}
-        <div>
-          <p className="mb-3 line-clamp-5 italic text-dust">
-            &ldquo;{current.frontmatter.quote}&rdquo;
-          </p>
-          <span className="font-mono text-xs text-moon">
-            {current.frontmatter.name}
-          </span>
-        </div>
+    <div className="max-w-xl">
+      <div className="grid">
+        {testimonials.map((t, i) => (
+          <div
+            key={t.slug}
+            aria-hidden={i !== index}
+            className={`col-start-1 row-start-1 flex gap-4 border-l border-night-line pl-5 transition-opacity ${
+              i === index ? "opacity-100" : "invisible opacity-0"
+            }`}
+          >
+            {t.frontmatter.image && (
+              // eslint-disable-next-line @next/next/no-img-element
+              <img
+                src={t.frontmatter.image}
+                alt={t.frontmatter.name}
+                className="h-14 w-14 shrink-0 rounded-full object-cover"
+              />
+            )}
+            <div>
+              <p className="mb-3 italic text-dust">
+                &ldquo;{t.frontmatter.quote}&rdquo;
+              </p>
+              <span className="font-mono text-xs text-moon">
+                {t.frontmatter.name}
+              </span>
+            </div>
+          </div>
+        ))}
       </div>
 
-      <div className="flex items-center gap-4">
+      <div className="mt-6 flex items-center gap-4">
         <button
           onClick={prev}
           aria-label="Prejšnji"
