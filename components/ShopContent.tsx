@@ -45,12 +45,14 @@ export function ShopContent({ lang }: { lang: Lang }) {
                   className="flex flex-col overflow-hidden border border-night-line transition-colors hover:border-moon/60"
                 >
                   {p.frontmatter.image && (
-                    // eslint-disable-next-line @next/next/no-img-element
-                    <img
-                      src={p.frontmatter.image}
-                      alt=""
-                      className="h-40 w-full object-cover"
-                    />
+                    <div className="flex h-44 w-full items-center justify-center bg-night-panel">
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img
+                        src={p.frontmatter.image}
+                        alt=""
+                        className="h-full w-full object-contain p-4"
+                      />
+                    </div>
                   )}
                   <div className="flex flex-1 flex-col p-6">
                     <h3 className="mb-1 font-display text-lg text-ink">

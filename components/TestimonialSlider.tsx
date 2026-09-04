@@ -27,7 +27,7 @@ export function TestimonialSlider({
   }
 
   return (
-    <div className="max-w-xl">
+    <div className="flex h-72 max-w-xl flex-col justify-between">
       <div className="flex gap-4 border-l border-night-line pl-5">
         {current.frontmatter.image && (
           // eslint-disable-next-line @next/next/no-img-element
@@ -37,15 +37,17 @@ export function TestimonialSlider({
             className="h-14 w-14 shrink-0 rounded-full object-cover"
           />
         )}
-        <div className="min-h-[9rem]">
-          <p className="mb-3 italic text-dust">&ldquo;{current.frontmatter.quote}&rdquo;</p>
+        <div>
+          <p className="mb-3 line-clamp-5 italic text-dust">
+            &ldquo;{current.frontmatter.quote}&rdquo;
+          </p>
           <span className="font-mono text-xs text-moon">
             {current.frontmatter.name}
           </span>
         </div>
       </div>
 
-      <div className="mt-6 flex items-center gap-4">
+      <div className="flex items-center gap-4">
         <button
           onClick={prev}
           aria-label="Prejšnji"
