@@ -162,3 +162,12 @@ export function getTestimonials(program?: string) {
   const all = readMarkdownDir("testimonials");
   return program ? all.filter((t) => t.frontmatter.program === program) : all;
 }
+
+// ---------- Programi (CTA/aktiven stikala, vsebina ostaja ročno napisana) ----------
+
+export function getPrograms() {
+  const all = readMarkdownDir("programs");
+  const bySlug: Record<string, (typeof all)[number]> = {};
+  for (const p of all) bySlug[p.slug] = p;
+  return bySlug;
+}
