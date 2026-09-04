@@ -7,6 +7,7 @@ languages: [sl]
 shipping: digital
 market: [sl]
 payment_link: ""
+image: "/uploads/products/oneirogeni-ebook/oneirogeni_cover_new.jpg"
 source_note: "Stara cena 6.90 € (2015-2018), predlagana nova 9 € zaradi inflacije - potrdi/spremeni v CMS."
 ---
 

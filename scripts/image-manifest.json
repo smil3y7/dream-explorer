@@ -196,5 +196,119 @@
     "dest_path": "/uploads/about/osebna01-150x150.jpg",
     "alt": "Sašo Drobnič",
     "used_in": "pages/about.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/2016/01/valerian.jpg",
+    "dest_path": "/uploads/products/baldrian-tinktura/valerian.jpg",
+    "alt": "baldrian-tinktura",
+    "used_in": "products/baldrian-tinktura.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/2016/01/hops.jpg",
+    "dest_path": "/uploads/products/hmelj-tinktura/hops.jpg",
+    "alt": "hmelj-tinktura",
+    "used_in": "products/hmelj-tinktura.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/2016/01/cover-si.jpg",
+    "dest_path": "/uploads/products/vrata-sanjanja-knjiga/cover-si.jpg",
+    "alt": "vrata-sanjanja-knjiga",
+    "used_in": "products/vrata-sanjanja-knjiga.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/2016/01/tulsi.jpg",
+    "dest_path": "/uploads/products/tulsi-tinktura/tulsi.jpg",
+    "alt": "tulsi-tinktura",
+    "used_in": "products/tulsi-tinktura.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/2016/01/lemongrass.jpg",
+    "dest_path": "/uploads/products/melisa-tinktura/lemongrass.jpg",
+    "alt": "melisa-tinktura",
+    "used_in": "products/melisa-tinktura.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/2016/01/cover-si.jpg",
+    "dest_path": "/uploads/products/vrata-sanjanja-ebook/cover-si.jpg",
+    "alt": "vrata-sanjanja-ebook",
+    "used_in": "products/vrata-sanjanja-ebook.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/2016/01/cover-en.jpg",
+    "dest_path": "/uploads/products/dream-gates-ebook/cover-en.jpg",
+    "alt": "dream-gates-ebook",
+    "used_in": "products/dream-gates-ebook.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/oneirogeni_cover_new.jpg",
+    "dest_path": "/uploads/products/oneirogeni-ebook/oneirogeni_cover_new.jpg",
+    "alt": "oneirogeni-ebook",
+    "used_in": "products/oneirogeni-ebook.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/2018/09/Hypericum_perforatum.jpg",
+    "dest_path": "/uploads/products/sentjanzevka-tinktura/Hypericum_perforatum.jpg",
+    "alt": "sentjanzevka-tinktura",
+    "used_in": "products/sentjanzevka-tinktura.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/jana.jpg",
+    "dest_path": "/uploads/testimonials/jana/jana.jpg",
+    "alt": "Jana",
+    "used_in": "testimonials/jana.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/sonca.jpg",
+    "dest_path": "/uploads/testimonials/sonca/sonca.jpg",
+    "alt": "Sonca",
+    "used_in": "testimonials/sonca.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/zarja.jpg",
+    "dest_path": "/uploads/testimonials/zarja/zarja.jpg",
+    "alt": "Zarja",
+    "used_in": "testimonials/zarja.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/mina.jpg",
+    "dest_path": "/uploads/testimonials/mina/mina.jpg",
+    "alt": "Mina",
+    "used_in": "testimonials/mina.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/anab.jpg",
+    "dest_path": "/uploads/testimonials/ana/anab.jpg",
+    "alt": "Ana",
+    "used_in": "testimonials/ana.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/aljaz.jpeg",
+    "dest_path": "/uploads/testimonials/aljaz/aljaz.jpeg",
+    "alt": "Aljaž",
+    "used_in": "testimonials/aljaz.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/2017/08/janakim.jpg",
+    "dest_path": "/uploads/testimonials/jana-k/janakim.jpg",
+    "alt": "Jana K",
+    "used_in": "testimonials/jana-k.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/2017/10/AnaS.png",
+    "dest_path": "/uploads/testimonials/ana-s/AnaS.png",
+    "alt": "Ana S",
+    "used_in": "testimonials/ana-s.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/2018/02/mojcal.jpg",
+    "dest_path": "/uploads/testimonials/mojca/mojcal.jpg",
+    "alt": "Mojca",
+    "used_in": "testimonials/mojca.md"
+  },
+  {
+    "source_url": "https://dream-explorer.com/sanjanje/wp-content/uploads/2018/02/sharonp.jpg",
+    "dest_path": "/uploads/testimonials/sharon/sharonp.jpg",
+    "alt": "Sharon",
+    "used_in": "testimonials/sharon.md"
   }
 ]

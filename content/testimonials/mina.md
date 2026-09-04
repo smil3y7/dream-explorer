@@ -1,5 +1,6 @@
 ---
 name: Mina
+image: "/uploads/testimonials/mina/mina.jpg"
 program: Inkubator sanj
 date: 2017-01-17
 source_slug: mina

@@ -1,5 +1,6 @@
 ---
 name: Jana K
+image: "/uploads/testimonials/jana-k/janakim.jpg"
 program: Inkubator sanj
 date: 2017-08-29
 source_slug: jana-k

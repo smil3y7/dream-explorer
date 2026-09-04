@@ -1,5 +1,6 @@
 ---
 name: Jana
+image: "/uploads/testimonials/jana/jana.jpg"
 program: Inkubator sanj
 date: 2017-01-17
 source_slug: jana

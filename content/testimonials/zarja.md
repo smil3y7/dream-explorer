@@ -1,5 +1,6 @@
 ---
 name: Zarja
+image: "/uploads/testimonials/zarja/zarja.jpg"
 program: Inkubator sanj
 date: 2017-01-17
 source_slug: zarja

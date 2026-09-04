@@ -1,5 +1,6 @@
 ---
 name: Ana S
+image: "/uploads/testimonials/ana-s/AnaS.png"
 program: Inkubator sanj
 date: 2017-10-30
 source_slug: ana-s

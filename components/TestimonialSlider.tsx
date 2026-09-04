@@ -28,11 +28,21 @@ export function TestimonialSlider({
 
   return (
     <div className="max-w-xl">
-      <div className="min-h-[9rem] border-l border-night-line pl-5">
-        <p className="mb-3 italic text-dust">&ldquo;{current.frontmatter.quote}&rdquo;</p>
-        <span className="font-mono text-xs text-moon">
-          {current.frontmatter.name}
-        </span>
+      <div className="flex gap-4 border-l border-night-line pl-5">
+        {current.frontmatter.image && (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img
+            src={current.frontmatter.image}
+            alt={current.frontmatter.name}
+            className="h-14 w-14 shrink-0 rounded-full object-cover"
+          />
+        )}
+        <div className="min-h-[9rem]">
+          <p className="mb-3 italic text-dust">&ldquo;{current.frontmatter.quote}&rdquo;</p>
+          <span className="font-mono text-xs text-moon">
+            {current.frontmatter.name}
+          </span>
+        </div>
       </div>
 
       <div className="mt-6 flex items-center gap-4">

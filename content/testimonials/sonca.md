@@ -1,5 +1,6 @@
 ---
 name: Sonca
+image: "/uploads/testimonials/sonca/sonca.jpg"
 program: Inkubator sanj
 date: 2017-01-17
 source_slug: sonca

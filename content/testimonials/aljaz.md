@@ -1,5 +1,6 @@
 ---
 name: Aljaž
+image: "/uploads/testimonials/aljaz/aljaz.jpeg"
 program: Inkubator sanj
 date: 2017-06-27
 source_slug: aljaz

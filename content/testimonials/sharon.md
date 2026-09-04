@@ -1,5 +1,6 @@
 ---
 name: Sharon
+image: "/uploads/testimonials/sharon/sharonp.jpg"
 program: Inkubator sanj
 date: 2018-02-03
 source_slug: sharon

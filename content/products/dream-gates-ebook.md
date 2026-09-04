@@ -7,6 +7,7 @@ languages: [en]
 shipping: digital
 market: [sl, en]
 payment_link: ""
+image: "/uploads/products/dream-gates-ebook/cover-en.jpg"
 source_note: "Old price 9.90 € (2015-2018), suggested new 12 € due to inflation - confirm/change in CMS."
 ---
 

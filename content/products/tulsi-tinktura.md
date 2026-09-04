@@ -7,6 +7,7 @@ languages: [sl]
 shipping: domestic
 market: [sl]
 payment_link: ""
+image: "/uploads/products/tulsi-tinktura/tulsi.jpg"
 source_note: "Stara cena 12 € (2015-2018), predlagana nova 15 € zaradi inflacije - potrdi/spremeni v CMS."
 ---
 
